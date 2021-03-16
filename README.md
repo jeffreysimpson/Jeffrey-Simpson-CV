@@ -1,4 +1,4 @@
-[![Latest PDF](https://img.shields.io/badge/PDF-latest-orange.svg)](https://github.com/jeffreysimpson/Jeffrey-Simpson-CV/blob/master-pdf/tex_files/cv.pdf)
+[![Latest PDF](https://img.shields.io/badge/PDF-latest-orange.svg)](https://github.com/jeffreysimpson/Jeffrey-Simpson-CV/blob/main-pdf/tex_files/cv.pdf)
 
 My CV.
 
