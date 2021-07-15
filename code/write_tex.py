@@ -25,6 +25,7 @@ def format_pub(args):
 
     pub["title"] = pub["title"].replace("<SUP>5</SUP>", "$^5$")
     pub["title"] = pub["title"].replace("<SUP>-1</SUP>", "$^{-1}$")
+    pub["title"] = pub["title"].replace("ω", "$\omega$")
     fmt = "\\item[{{\\color{{numcolor}}\\scriptsize{0}}}] ".format(ind)
     n = [i for i in range(len(pub["authors"]))
          if "Simpson, J" in pub["authors"][i]][0]
