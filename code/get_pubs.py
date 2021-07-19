@@ -9,6 +9,7 @@ import json
 from operator import itemgetter
 
 import ads
+import os
 from utf8totex import utf8totex
 
 __all__ = ["get_papers"]
@@ -16,6 +17,8 @@ __all__ = ["get_papers"]
 
 def get_papers(orcid):
     """Download the author's references from ADS."""
+
+    ads.config.token = os.getenv('ADS_TOKEN')
     papers = list(ads.SearchQuery(
         orcid=orcid,
         fl=["id", "title", "author", "doi", "year", "pubdate", "pub",
