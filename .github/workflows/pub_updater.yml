@@ -33,15 +33,13 @@ jobs:
       run: python code/write_tex.py
 
     - name: check for changes
-    # The reason for this git diff check is that the SVG images created by
-    # pub_maker.py change every run because matplotlib creates ID tags inside
-    # the files with random values.
-      run: git config --local user.email "robot@galahsurvey.org"
-           git config --local user.name "Robot GALAH"
-           git add -A
-           git commit -m "Automatically updating the publication files"
+      run: |
+        git config --local user.email "robot@galahsurvey.org"
+        git config --local user.name "Robot GALAH"
+        git add -A
+        git commit -m "Daily update of the publication list."
     - name: push changes
       uses: ad-m/github-push-action@v0.6.0
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: main_pdf
+        branch: main
