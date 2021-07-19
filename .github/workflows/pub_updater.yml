@@ -1,0 +1,47 @@
+# Updating the publication lists
+
+name: Update Publications
+
+on:
+  workflow_dispatch
+#   schedule:
+#     - cron:  '0 0 * * *' # Runs at 10 am AEST
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install ads
+
+    - name: execute pub_maker.py
+      env:
+        ADS_TOKEN: ${{ secrets.ADS_TOKEN }}
+      run: python code/get_pubs.py
+      
+    - name: execute write_tex.py
+      run: python code/write_tex.py
+
+    - name: check for changes
+    # The reason for this git diff check is that the SVG images created by
+    # pub_maker.py change every run because matplotlib creates ID tags inside
+    # the files with random values.
+      run: git config --local user.email "robot@galahsurvey.org"
+           git config --local user.name "Robot GALAH"
+           git add -A
+           git commit -m "Automatically updating the publication files"
+    - name: push changes
+      uses: ad-m/github-push-action@v0.6.0
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: main_pdf
