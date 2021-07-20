@@ -1,13 +1,9 @@
 # Stolen from https://github.com/andycasey/paper-maker/blob/master/action.yml
 
-name: paper-maker
+name: PDF Generator
 # description: Automagically build LaTex manuscripts and push the latest PDF back to GitHub
 
 on: push
-
-# branding:
-#   icon: 'zap'
-#   color: 'blue'
 
 jobs:
   build:
