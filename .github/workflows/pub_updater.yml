@@ -61,5 +61,5 @@ jobs:
         cd ${MANUSCRIPT_PATH%/*}
         git rm -rf .
         git add -f ${MANUSCRIPT_PATH##*/}.pdf
-        git -c user.name='Robot Jeffrey' -c user.email='robot@jeffrey' commit -m "Update the CV PD"
+        git -c user.name='Robot Jeffrey' -c user.email='robot@jeffrey' commit -m "Update the CV PDF"
         git push -q -f https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} ${GITHUB_REF##*/}-pdf
