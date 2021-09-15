@@ -27,11 +27,11 @@ jobs:
         pip install ads
     - name: Install texlive
       run: |
-        sudo apt-get install texlive-publishers \
-                             texlive-latex-recommended \
-                             texlive-latex-extra \
-                             texlive-fonts-recommended \
-                             texlive-fonts-extra
+        sudo apt-get install texlive-publishers #\
+                             # texlive-latex-recommended \
+                             # texlive-latex-extra \
+                             # texlive-fonts-recommended \
+                             # texlive-fonts-extra
     - name: execute pub_maker.py
       env:
         ADS_TOKEN: ${{ secrets.ADS_TOKEN }}
