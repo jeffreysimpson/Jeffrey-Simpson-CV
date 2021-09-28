@@ -235,7 +235,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2012.12201",
     "authors": [
       "Zwitter, Toma{\\v{z}}",
       "Kos, Janez",
@@ -266,7 +266,7 @@
       "Watson, Fred",
       "Wittenmyer, Rob"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2673",
     "page": null,
@@ -734,49 +734,6 @@
     "url": "https://ui.adsabs.harvard.edu/#abs/2021ApJ...911..149L",
     "volume": "911",
     "year": "2021"
-  },
-  {
-    "arxiv": "2012.12201",
-    "authors": [
-      "Zwitter, Toma{\\v{z}}",
-      "Kos, Janez",
-      "Buder, Sven",
-      "{\\v{C}}otar, Klemen",
-      "Asplund, Martin",
-      "Bland-Hawthorn, Joss",
-      "Casey, Andrew R.",
-      "De Silva, Gayandhi M.",
-      "D'Orazi, Valentina",
-      "Freeman, Kenneth C.",
-      "Hayden, Michael R.",
-      "Lewis, Geraint F.",
-      "Lin, Jane",
-      "Lind, Karin",
-      "Martell, Sarah L.",
-      "Schlesinger, Katharine J.",
-      "Sharma, Sanjib",
-      "Simpson, Jeffrey D.",
-      "Stello, Dennis",
-      "Zucker, Daniel B.",
-      "Beeson, Kevin L.",
-      "de Grijs, Richard",
-      "Nordlander, Thomas",
-      "Ting, Yuan-Sen",
-      "Traven, Gregor",
-      "Vogrin{\\v{c}}i{\\v{c}}, Rok",
-      "Watson, Fred",
-      "Wittenmyer, Rob"
-    ],
-    "citations": 1,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2020-12-00",
-    "title": "The GALAH+ Survey: A New Library of Observed Stellar Spectra Improves Radial Velocities and Hints at Motions within M67",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2020arXiv201212201Z",
-    "volume": null,
-    "year": "2020"
   },
   {
     "arxiv": "2011.13818",
