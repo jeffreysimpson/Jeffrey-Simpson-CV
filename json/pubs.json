@@ -69,7 +69,7 @@
       "Ting, Yuan-Sen",
       "Wyse, Rosemary F. G.",
       "Wyse, Rosemary F. G.",
-      "The Galah Collaboration"
+      "Galah Collaboration"
     ],
     "citations": 7,
     "doctype": "article",
@@ -612,7 +612,7 @@
       "Sharma, Sanjib",
       "Stello, Dennis"
     ],
-    "citations": 2,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.3847/2041-8213/abf7cd",
     "page": null,
@@ -724,7 +724,7 @@
       "Sharma, Sanjib",
       "S5 Collaboration"
     ],
-    "citations": 16,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.3847/1538-4357/abeb18",
     "page": 149,
@@ -1088,6 +1088,42 @@
     "year": "2020"
   },
   {
+    "arxiv": "2007.14577",
+    "authors": [
+      "Wan, Zhen",
+      "Lewis, Geraint F.",
+      "Li, Ting S.",
+      "Simpson, Jeffrey D.",
+      "Martell, Sarah L.",
+      "Zucker, Daniel B.",
+      "Mould, Jeremy R.",
+      "Erkal, Denis",
+      "Pace, Andrew B.",
+      "Mackey, Dougal",
+      "Ji, Alexander P.",
+      "Koposov, Sergey E.",
+      "Kuehn, Kyler",
+      "Shipp, Nora",
+      "Balbinot, Eduardo",
+      "Bland-Hawthorn, Joss",
+      "Casey, Andrew R.",
+      "Da Costa, Gary S.",
+      "Kafle, Prajwal",
+      "Sharma, Sanjib",
+      "De Silva, Gayandhi M."
+    ],
+    "citations": 18,
+    "doctype": "article",
+    "doi": "10.1038/s41586-020-2483-6",
+    "page": 768,
+    "pub": "Nature",
+    "pubdate": "2020-07-00",
+    "title": "The tidal remnant of an unusually metal-poor globular cluster",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2020Natur.583..768W",
+    "volume": "583",
+    "year": "2020"
+  },
+  {
     "arxiv": "2001.08227",
     "authors": [
       "Wheeler, Adam",
@@ -1104,7 +1140,7 @@
       "Zucker, D. B.",
       "Zwitter, Toma{\\v{z}}"
     ],
-    "citations": 16,
+    "citations": 17,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ab9a46",
     "page": 58,
@@ -1445,42 +1481,6 @@
     "year": "2020"
   },
   {
-    "arxiv": "2007.14577",
-    "authors": [
-      "Wan, Zhen",
-      "Lewis, Geraint F.",
-      "Li, Ting S.",
-      "Simpson, Jeffrey D.",
-      "Martell, Sarah L.",
-      "Zucker, Daniel B.",
-      "Mould, Jeremy R.",
-      "Erkal, Denis",
-      "Pace, Andrew B.",
-      "Mackey, Dougal",
-      "Ji, Alexander P.",
-      "Koposov, Sergey E.",
-      "Kuehn, Kyler",
-      "Shipp, Nora",
-      "Balbinot, Eduardo",
-      "Bland-Hawthorn, Joss",
-      "Casey, Andrew R.",
-      "Da Costa, Gary S.",
-      "Kafle, Prajwal",
-      "Sharma, Sanjib",
-      "De Silva, Gayandhi M."
-    ],
-    "citations": 18,
-    "doctype": "article",
-    "doi": "10.1038/s41586-020-2483-6",
-    "page": 768,
-    "pub": "Nature",
-    "pubdate": "2020-00-00",
-    "title": "The tidal remnant of an unusually metal-poor globular cluster",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2020Natur.583..768W",
-    "volume": "583",
-    "year": "2020"
-  },
-  {
     "arxiv": "1904.12444",
     "authors": [
       "Sharma, Sanjib",
@@ -1569,7 +1569,7 @@
       "Yanny, B.",
       "S5 Collaboration"
     ],
-    "citations": 42,
+    "citations": 41,
     "doctype": "article",
     "doi": "10.1093/mnras/stz2731",
     "page": 3508,
@@ -1631,7 +1631,7 @@
       "Zucker, Daniel B.",
       "Zwitter, Toma{\\v{z}}"
     ],
-    "citations": 41,
+    "citations": 40,
     "doctype": "article",
     "doi": "10.1093/mnras/stz2462",
     "page": 4962,
@@ -1833,7 +1833,7 @@
       "Ting, Yuan-Sen",
       "Wyse, Rosemary F. G."
     ],
-    "citations": 101,
+    "citations": 100,
     "doctype": "article",
     "doi": "10.1093/mnras/stz217",
     "page": 1167,
