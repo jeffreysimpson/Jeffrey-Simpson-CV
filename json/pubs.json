@@ -43,7 +43,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2106.12656",
     "authors": [
       "Ji, Alexander P.",
       "Koposov, Sergey E.",
@@ -64,7 +64,7 @@
       "Bland-Hawthorn, Joss",
       "S5 Collaboration"
     ],
-    "citations": 0,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac1869",
     "page": 32,
@@ -662,39 +662,6 @@
     "pubdate": "2021-07-00",
     "title": "Measuring the Mass of the Large Magellanic Cloud with Stellar Streams Observed by ${\\{}S{\\}}^5$",
     "url": "https://ui.adsabs.harvard.edu/#abs/2021arXiv210713004S",
-    "volume": null,
-    "year": "2021"
-  },
-  {
-    "arxiv": "2106.12656",
-    "authors": [
-      "Ji, Alexander P.",
-      "Koposov, Sergey E.",
-      "Li, Ting S.",
-      "Erkal, Denis",
-      "Pace, Andrew B.",
-      "Simon, Joshua D.",
-      "Belokurov, Vasily",
-      "Cullinane, Lara R.",
-      "Da Costa, Gary S.",
-      "Kuehn, Kyler",
-      "Lewis, Geraint F.",
-      "Mackey, Dougal",
-      "Shipp, Nora",
-      "Simpson, Jeffrey D.",
-      "Zucker, Daniel B.",
-      "Hansen, Terese T.",
-      "Bland-Hawthorn, Joss",
-      "S5 Collaboration"
-    ],
-    "citations": 3,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2021-06-00",
-    "title": "Kinematics of Antlia 2 and Crater 2 from The Southern Stellar Stream Spectroscopic Survey (S5)",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2021arXiv210612656J",
     "volume": null,
     "year": "2021"
   },
