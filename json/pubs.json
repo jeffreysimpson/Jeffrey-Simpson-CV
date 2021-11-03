@@ -2907,24 +2907,6 @@
     "year": "2017"
   },
   {
-    "arxiv": "1610.08562",
-    "authors": [
-      "Simpson, Jeffrey D.",
-      "Martell, Sarah L.",
-      "Navin, Colin A."
-    ],
-    "citations": 16,
-    "doctype": "article",
-    "doi": "10.1093/mnras/stw2781",
-    "page": 1123,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2017-02-00",
-    "title": "A broad perspective on multiple abundance populations in the globular cluster NGC 1851",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2017MNRAS.465.1123S",
-    "volume": "465",
-    "year": "2017"
-  },
-  {
     "arxiv": "1612.02242",
     "authors": [
       "Traven, G.",
@@ -2964,6 +2946,24 @@
     "title": "The Galah Survey: Classification and Diagnostics with t-SNE Reduction of Spectral Information",
     "url": "https://ui.adsabs.harvard.edu/#abs/2017ApJS..228...24T",
     "volume": "228",
+    "year": "2017"
+  },
+  {
+    "arxiv": "1610.08562",
+    "authors": [
+      "Simpson, Jeffrey D.",
+      "Martell, Sarah L.",
+      "Navin, Colin A."
+    ],
+    "citations": 16,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stw2781",
+    "page": 1123,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2017-02-00",
+    "title": "A broad perspective on multiple abundance populations in the globular cluster NGC 1851",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2017MNRAS.465.1123S",
+    "volume": "465",
     "year": "2017"
   },
   {
