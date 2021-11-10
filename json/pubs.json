@@ -31,7 +31,7 @@
       "Watson, Fred",
       "Wittenmyer, Rob"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2673",
     "page": 4202,
@@ -76,7 +76,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2109.03948",
     "authors": [
       "Casey, Andrew R.",
       "Ji, Alexander P.",
@@ -276,7 +276,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "GALAH Collaboration"
     ],
-    "citations": 72,
+    "citations": 71,
     "doctype": "article",
     "doi": "10.1093/mnras/stab1242",
     "page": 150,
@@ -479,37 +479,6 @@
     "pubdate": "2021-09-00",
     "title": "VizieR Online Data Catalog: The GALAH+ Survey DR3 (Buder+, 2021)",
     "url": "https://ui.adsabs.harvard.edu/#abs/2021yCat..75060150B",
-    "volume": null,
-    "year": "2021"
-  },
-  {
-    "arxiv": "2109.03948",
-    "authors": [
-      "Casey, Andrew R.",
-      "Ji, Alexander P.",
-      "Hansen, Terese T.",
-      "Li, Ting S.",
-      "Koposov, Sergey E.",
-      "Da Costa, Gary S.",
-      "Bland-Hawthorn, Joss",
-      "Cullinane, Lara",
-      "Erkal, Denis",
-      "Lewis, Geraint F.",
-      "Kuehn, Kyler",
-      "Mackey, Dougal",
-      "Martell, Sarah L.",
-      "Pace, Andrew B.",
-      "Simpson, Jeffrey D.",
-      "Zucker, Daniel B."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2021-09-00",
-    "title": "Signature of a massive rotating metal-poor star imprinted in the Phoenix stellar stream",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2021arXiv210903948C",
     "volume": null,
     "year": "2021"
   },
@@ -1053,7 +1022,7 @@
       "Wittenmyer, Robert A.",
       "Tepper-Garcia, Thor"
     ],
-    "citations": 8,
+    "citations": 7,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -1343,7 +1312,7 @@
       "Zucker, D. B.",
       "Zwitter, Toma{\\v{z}}"
     ],
-    "citations": 18,
+    "citations": 17,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ab9a46",
     "page": 58,
@@ -2036,7 +2005,7 @@
       "Ting, Yuan-Sen",
       "Wyse, Rosemary F. G."
     ],
-    "citations": 102,
+    "citations": 103,
     "doctype": "article",
     "doi": "10.1093/mnras/stz217",
     "page": 1167,
@@ -2483,7 +2452,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 218,
+    "citations": 217,
     "doctype": "article",
     "doi": "10.1093/mnras/sty1281",
     "page": 4513,
