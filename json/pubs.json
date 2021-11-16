@@ -31,7 +31,7 @@
       "Watson, Fred",
       "Wittenmyer, Rob"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2673",
     "page": 4202,
@@ -64,7 +64,7 @@
       "Bland-Hawthorn, Joss",
       "S5 Collaboration"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac1869",
     "page": 32,
@@ -2895,7 +2895,7 @@
       "Watson, F. G.",
       "Wittenmyer, R."
     ],
-    "citations": 124,
+    "citations": 125,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2835",
     "page": 3203,
@@ -3258,7 +3258,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 409,
+    "citations": 410,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
