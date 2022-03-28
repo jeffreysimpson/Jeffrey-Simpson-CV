@@ -1,5 +1,41 @@
 [
   {
+    "arxiv": null,
+    "authors": [
+      "Li, Ting S.",
+      "Ji, Alexander P.",
+      "Pace, Andrew B.",
+      "Erkal, Denis",
+      "Koposov, Sergey E.",
+      "Shipp, Nora",
+      "Da Costa, Gary S.",
+      "Cullinane, Lara R.",
+      "Kuehn, Kyler",
+      "Lewis, Geraint F.",
+      "Mackey, Dougal",
+      "Simpson, Jeffrey D.",
+      "Zucker, Daniel B.",
+      "Ferguson, Peter S.",
+      "Martell, Sarah L.",
+      "Bland-Hawthorn, Joss",
+      "Balbinot, Eduardo",
+      "Tavangar, Kiyan",
+      "Drlica-Wagner, Alex",
+      "De Silva, Gayandhi M.",
+      "Simon, Joshua D."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ac46d3",
+    "page": 30,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2022-03-00",
+    "title": "S <SUP>5</SUP>: The Orbital and Chemical Properties of One Dozen Stellar Streams",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2022ApJ...928...30L",
+    "volume": "928",
+    "year": "2022"
+  },
+  {
     "arxiv": "2109.04059",
     "authors": [
       "Buder, Sven",
