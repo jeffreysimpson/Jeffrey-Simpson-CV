@@ -1,6 +1,6 @@
 [
   {
-    "arxiv": null,
+    "arxiv": "2110.06950",
     "authors": [
       "Li, Ting S.",
       "Ji, Alexander P.",
@@ -24,7 +24,7 @@
       "De Silva, Gayandhi M.",
       "Simon, Joshua D."
     ],
-    "citations": 0,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac46d3",
     "page": 30,
@@ -386,43 +386,6 @@
     "title": "The GALAH survey: accreted stars also inhabit the Spite plateau",
     "url": "https://ui.adsabs.harvard.edu/#abs/2021MNRAS.507...43S",
     "volume": "507",
-    "year": "2021"
-  },
-  {
-    "arxiv": "2110.06950",
-    "authors": [
-      "Li, Ting S.",
-      "Ji, Alexander P.",
-      "Pace, Andrew B.",
-      "Erkal, Denis",
-      "Koposov, Sergey E.",
-      "Shipp, Nora",
-      "Da Costa, Gary S.",
-      "Cullinane, Lara R.",
-      "Kuehn, Kyler",
-      "Lewis, Geraint F.",
-      "Mackey, Dougal",
-      "Simpson, Jeffrey D.",
-      "Zucker, Daniel B.",
-      "Ferguson, Peter S.",
-      "Martell, Sarah L.",
-      "Bland-Hawthorn, Joss",
-      "Balbinot, Eduardo",
-      "Tavangar, Kiyan",
-      "Drlica-Wagner, Alex",
-      "De Silva, Gayandhi M.",
-      "Simon, Joshua D.",
-      "S5 Collaboration"
-    ],
-    "citations": 10,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2021-10-00",
-    "title": "$S^5$: The Orbital and Chemical Properties of One Dozen Stellar Streams",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2021arXiv211006950L",
-    "volume": null,
     "year": "2021"
   },
   {
