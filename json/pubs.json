@@ -36,6 +36,45 @@
     "year": "2022"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Nandakumar, Govind",
+      "Hayden, Michael R.",
+      "Sharma, Sanjib",
+      "Buder, Sven",
+      "Asplund, Martin",
+      "Bland-Hawthorn, Joss",
+      "De Silva, Gayandhi M.",
+      "D'Orazi, Valentina",
+      "Freeman, Ken C.",
+      "Kos, Janez",
+      "Lewis, Geraint F.",
+      "Martell, Sarah L.",
+      "Schlesinger, Katharine J.",
+      "Lin, Jane",
+      "Simpson, Jeffrey D.",
+      "Zucker, Daniel B.",
+      "Zwitter, Toma{\\v{z}}",
+      "Nordlander, Thomas",
+      "Casagrande, Luca",
+      "Lind, Karin",
+      "C{\\^o}tar, Klemen",
+      "Stello, Dennis",
+      "Wittenmyer, Robert A.",
+      "Tepper-Garcia, Thor"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stac873",
+    "page": null,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2022-03-00",
+    "title": "Combined APOGEE-GALAH stellar catalogues using the Cannon",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2022MNRAS.tmp..866N",
+    "volume": null,
+    "year": "2022"
+  },
+  {
     "arxiv": "2109.04059",
     "authors": [
       "Buder, Sven",
@@ -621,7 +660,7 @@
       "Wittenmyer, R. A.",
       "Zucker, D. B."
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.1093/mnras/stab1620",
     "page": 6121,
@@ -706,7 +745,7 @@
       "Nordlander, Thomas",
       "Amarsi, Anish M."
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.1093/mnras/stab1052",
     "page": 4968,
@@ -1648,7 +1687,7 @@
       "Simpson, J. D.",
       "Wan, Z."
     ],
-    "citations": 19,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.1093/mnrasl/slz156",
     "page": null,
@@ -2494,7 +2533,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 235,
+    "citations": 236,
     "doctype": "article",
     "doi": "10.1093/mnras/sty1281",
     "page": 4513,
@@ -2846,7 +2885,7 @@
       "Penarrubia, J.",
       "Tolstoy, E."
     ],
-    "citations": 13,
+    "citations": 14,
     "doctype": "article",
     "doi": "10.1093/mnras/stx1892",
     "page": 4087,
@@ -2937,7 +2976,7 @@
       "Watson, F. G.",
       "Wittenmyer, R."
     ],
-    "citations": 133,
+    "citations": 134,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2835",
     "page": 3203,
@@ -3300,7 +3339,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 443,
+    "citations": 444,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
