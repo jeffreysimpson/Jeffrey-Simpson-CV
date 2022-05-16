@@ -39,6 +39,45 @@
     "year": "2022"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Hughes, Arvind C. N.",
+      "Spitler, Lee R.",
+      "Zucker, Daniel B.",
+      "Nordlander, Thomas",
+      "Simpson, Jeffrey",
+      "da Costa, Gary S.",
+      "Ting, Yuan-Sen",
+      "Li, Chengyuan",
+      "Bland-Hawthorn, Joss",
+      "Buder, Sven",
+      "Casey, Andrew R.",
+      "de Silva, Gayandhi M.",
+      "D'Orazi, Valentina",
+      "Freeman, Ken C.",
+      "Hayden, Michael R.",
+      "Kos, Janez",
+      "Lewis, Geraint F.",
+      "Lin, Jane",
+      "Lind, Karin",
+      "Martell, Sarah L.",
+      "Schlesinger, Katharine J.",
+      "Sharma, Sanjib",
+      "Zwitter, Toma{\\v{z}}",
+      "GALAH Collaboration"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ac5fa7",
+    "page": 47,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2022-05-00",
+    "title": "The GALAH Survey: A New Sample of Extremely Metal-poor Stars Using a Machine-learning Classification Algorithm",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2022ApJ...930...47H",
+    "volume": "930",
+    "year": "2022"
+  },
+  {
     "arxiv": "2110.06950",
     "authors": [
       "Li, Ting S.",
@@ -63,7 +102,7 @@
       "De Silva, Gayandhi M.",
       "Simon, Joshua D."
     ],
-    "citations": 13,
+    "citations": 14,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac46d3",
     "page": 30,
@@ -108,7 +147,7 @@
       "Wyse, Rosemary F. G.",
       "Wyse, Galah Collaboration"
     ],
-    "citations": 11,
+    "citations": 12,
     "doctype": "article",
     "doi": "10.1093/mnras/stab3504",
     "page": 2407,
@@ -375,7 +414,7 @@
       "Zucker, Daniel B.",
       "Zwitter, Toma{\\v{z}}"
     ],
-    "citations": 23,
+    "citations": 24,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2304",
     "page": 2684,
@@ -416,7 +455,7 @@
       "Wyse, Rosemary F. G.",
       "GALAH Collaboration"
     ],
-    "citations": 12,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2012",
     "page": 43,
@@ -478,7 +517,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "GALAH Collaboration"
     ],
-    "citations": 114,
+    "citations": 115,
     "doctype": "article",
     "doi": "10.1093/mnras/stab1242",
     "page": 150,
@@ -869,7 +908,7 @@
       "Zucker, D. B.",
       "Zwitter, T."
     ],
-    "citations": 29,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.1093/mnras/stab471",
     "page": 3279,
@@ -1019,7 +1058,7 @@
       "Sharma, Sanjib",
       "S5 Collaboration"
     ],
-    "citations": 28,
+    "citations": 29,
     "doctype": "article",
     "doi": "10.3847/1538-4357/abeb18",
     "page": 149,
@@ -1211,7 +1250,7 @@
       "Wan, Zhen",
       "Zucker, Daniel B."
     ],
-    "citations": 27,
+    "citations": 29,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abacb6",
     "page": 181,
@@ -1252,7 +1291,7 @@
       "Horner, J.",
       "Galah Collaboration"
     ],
-    "citations": 29,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202038650",
     "page": null,
@@ -1365,7 +1404,7 @@
       "Sharma, Sanjib",
       "De Silva, Gayandhi M."
     ],
-    "citations": 29,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2483-6",
     "page": 768,
@@ -1497,7 +1536,7 @@
       "Munari, U.",
       "Wittenmyer, R. A."
     ],
-    "citations": 15,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202037484",
     "page": null,
@@ -1609,7 +1648,7 @@
       "Wang, Mei-Yu",
       "S5 Collaboration"
     ],
-    "citations": 56,
+    "citations": 57,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3081",
     "page": 2465,
@@ -1770,7 +1809,7 @@
       "Yanny, B.",
       "S5 Collaboration"
     ],
-    "citations": 51,
+    "citations": 52,
     "doctype": "article",
     "doi": "10.1093/mnras/stz2731",
     "page": 3508,
@@ -2752,7 +2791,7 @@
       "Ting, Yuan-Sen",
       "Wyse, Rosemary"
     ],
-    "citations": 31,
+    "citations": 32,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2637",
     "page": 4612,
@@ -2801,7 +2840,7 @@
       "Traven, Gregor",
       "Wright, Duncan"
     ],
-    "citations": 39,
+    "citations": 40,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaa3e4",
     "page": 84,
@@ -2841,7 +2880,7 @@
       "Wittenmyer, Rob A.",
       "Zucker, Daniel B."
     ],
-    "citations": 70,
+    "citations": 71,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2582",
     "page": 2004,
@@ -2861,7 +2900,7 @@
       "Navin, Colin A.",
       "Zucker, Daniel B."
     ],
-    "citations": 15,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2174",
     "page": 2856,
@@ -2976,7 +3015,7 @@
       "Watson, F. G.",
       "Wittenmyer, R."
     ],
-    "citations": 135,
+    "citations": 136,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2835",
     "page": 3203,
@@ -3018,7 +3057,7 @@
       "Reid, W.",
       "Ting, Y. -S."
     ],
-    "citations": 37,
+    "citations": 38,
     "doctype": "article",
     "doi": "10.3847/1538-4365/228/2/24",
     "page": 24,
@@ -3099,7 +3138,7 @@
       "Watson, Fred",
       "Wittenmyer, Robert A."
     ],
-    "citations": 51,
+    "citations": 52,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2064",
     "page": 1259,
@@ -3339,7 +3378,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 457,
+    "citations": 458,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
@@ -3473,7 +3512,7 @@
       "Cottrell, P. L.",
       "Worley, C. C."
     ],
-    "citations": 15,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.1111/j.1365-2966.2012.22012.x",
     "page": 1153,
