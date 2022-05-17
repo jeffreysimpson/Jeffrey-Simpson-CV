@@ -39,7 +39,7 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
+    "arxiv": "2203.10843",
     "authors": [
       "Hughes, Arvind C. N.",
       "Spitler, Lee R.",
@@ -102,7 +102,7 @@
       "De Silva, Gayandhi M.",
       "Simon, Joshua D."
     ],
-    "citations": 14,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac46d3",
     "page": 30,
@@ -147,7 +147,7 @@
       "Wyse, Rosemary F. G.",
       "Wyse, Galah Collaboration"
     ],
-    "citations": 12,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.1093/mnras/stab3504",
     "page": 2407,
@@ -414,7 +414,7 @@
       "Zucker, Daniel B.",
       "Zwitter, Toma{\\v{z}}"
     ],
-    "citations": 24,
+    "citations": 23,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2304",
     "page": 2684,
@@ -455,7 +455,7 @@
       "Wyse, Rosemary F. G.",
       "GALAH Collaboration"
     ],
-    "citations": 13,
+    "citations": 12,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2012",
     "page": 43,
@@ -517,7 +517,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "GALAH Collaboration"
     ],
-    "citations": 115,
+    "citations": 114,
     "doctype": "article",
     "doi": "10.1093/mnras/stab1242",
     "page": 150,
@@ -908,7 +908,7 @@
       "Zucker, D. B.",
       "Zwitter, T."
     ],
-    "citations": 31,
+    "citations": 29,
     "doctype": "article",
     "doi": "10.1093/mnras/stab471",
     "page": 3279,
@@ -1058,7 +1058,7 @@
       "Sharma, Sanjib",
       "S5 Collaboration"
     ],
-    "citations": 29,
+    "citations": 28,
     "doctype": "article",
     "doi": "10.3847/1538-4357/abeb18",
     "page": 149,
@@ -1250,7 +1250,7 @@
       "Wan, Zhen",
       "Zucker, Daniel B."
     ],
-    "citations": 29,
+    "citations": 27,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abacb6",
     "page": 181,
@@ -1291,7 +1291,7 @@
       "Horner, J.",
       "Galah Collaboration"
     ],
-    "citations": 31,
+    "citations": 29,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202038650",
     "page": null,
@@ -1404,7 +1404,7 @@
       "Sharma, Sanjib",
       "De Silva, Gayandhi M."
     ],
-    "citations": 30,
+    "citations": 29,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2483-6",
     "page": 768,
@@ -1536,7 +1536,7 @@
       "Munari, U.",
       "Wittenmyer, R. A."
     ],
-    "citations": 16,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202037484",
     "page": null,
@@ -1648,7 +1648,7 @@
       "Wang, Mei-Yu",
       "S5 Collaboration"
     ],
-    "citations": 57,
+    "citations": 56,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3081",
     "page": 2465,
@@ -1809,7 +1809,7 @@
       "Yanny, B.",
       "S5 Collaboration"
     ],
-    "citations": 52,
+    "citations": 51,
     "doctype": "article",
     "doi": "10.1093/mnras/stz2731",
     "page": 3508,
@@ -2791,7 +2791,7 @@
       "Ting, Yuan-Sen",
       "Wyse, Rosemary"
     ],
-    "citations": 32,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2637",
     "page": 4612,
@@ -2840,7 +2840,7 @@
       "Traven, Gregor",
       "Wright, Duncan"
     ],
-    "citations": 40,
+    "citations": 39,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaa3e4",
     "page": 84,
@@ -2880,7 +2880,7 @@
       "Wittenmyer, Rob A.",
       "Zucker, Daniel B."
     ],
-    "citations": 71,
+    "citations": 70,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2582",
     "page": 2004,
@@ -3015,7 +3015,7 @@
       "Watson, F. G.",
       "Wittenmyer, R."
     ],
-    "citations": 136,
+    "citations": 135,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2835",
     "page": 3203,
@@ -3057,7 +3057,7 @@
       "Reid, W.",
       "Ting, Y. -S."
     ],
-    "citations": 38,
+    "citations": 37,
     "doctype": "article",
     "doi": "10.3847/1538-4365/228/2/24",
     "page": 24,
@@ -3138,7 +3138,7 @@
       "Watson, Fred",
       "Wittenmyer, Robert A."
     ],
-    "citations": 52,
+    "citations": 51,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2064",
     "page": 1259,
@@ -3378,7 +3378,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 458,
+    "citations": 457,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
@@ -3512,7 +3512,7 @@
       "Cottrell, P. L.",
       "Worley, C. C."
     ],
-    "citations": 16,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.1111/j.1365-2966.2012.22012.x",
     "page": 1153,
