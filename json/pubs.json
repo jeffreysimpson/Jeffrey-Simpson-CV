@@ -27,7 +27,7 @@
       "Wittenmyer, Robert A.",
       "Tepper-Garcia, Thor"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.1093/mnras/stac873",
     "page": 232,
@@ -147,7 +147,7 @@
       "Wyse, Rosemary F. G.",
       "Wyse, Galah Collaboration"
     ],
-    "citations": 19,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.1093/mnras/stab3504",
     "page": 2407,
@@ -517,7 +517,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 137,
+    "citations": 139,
     "doctype": "article",
     "doi": "10.1093/mnras/stab1242",
     "page": 150,
@@ -908,7 +908,7 @@
       "Zucker, D. B.",
       "Zwitter, T."
     ],
-    "citations": 34,
+    "citations": 35,
     "doctype": "article",
     "doi": "10.1093/mnras/stab471",
     "page": 3279,
@@ -946,7 +946,7 @@
       "Sharma, Sanjib",
       "Stello, Dennis"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.3847/2041-8213/abf7cd",
     "page": null,
@@ -1594,7 +1594,7 @@
     "authors": [
       "Simpson, Jeffrey D."
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.3847/2515-5172/ab917e",
     "page": 70,
@@ -2572,7 +2572,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 239,
+    "citations": 240,
     "doctype": "article",
     "doi": "10.1093/mnras/sty1281",
     "page": 4513,
@@ -3378,7 +3378,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 468,
+    "citations": 470,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
