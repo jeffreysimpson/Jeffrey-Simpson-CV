@@ -712,7 +712,8 @@
       "Vogrincic, R.",
       "Wittenmyer, R. A.",
       "Wyse, R. F. G.",
-      "Zerjal M. GALAH Collaboration"
+      "Zerjal, M.",
+      "GALAH Collaboration"
     ],
     "citations": 0,
     "doctype": "catalog",
@@ -3104,7 +3105,7 @@
       "Reid, W.",
       "Ting, Y. -S."
     ],
-    "citations": 37,
+    "citations": 38,
     "doctype": "article",
     "doi": "10.3847/1538-4365/228/2/24",
     "page": 24,
@@ -3425,7 +3426,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 490,
+    "citations": 492,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
@@ -3595,7 +3596,7 @@
     ],
     "citations": 0,
     "doctype": "inproceedings",
-    "doi": "10.22323/1.146/0232",
+    "doi": "10.22323/1.146.0232",
     "page": 232,
     "pub": "Nuclei in the Cosmos (NIC XII)",
     "pubdate": "2012-00-00",
