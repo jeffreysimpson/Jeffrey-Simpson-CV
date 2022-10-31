@@ -1480,7 +1480,7 @@
       "Zucker, D. B.",
       "Zwitter, Toma{\\v{z}}"
     ],
-    "citations": 24,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ab9a46",
     "page": 58,
@@ -1696,7 +1696,7 @@
       "Wang, Mei-Yu",
       "S5 Collaboration"
     ],
-    "citations": 63,
+    "citations": 64,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3081",
     "page": 2465,
@@ -1857,7 +1857,7 @@
       "Yanny, B.",
       "S5 Collaboration"
     ],
-    "citations": 62,
+    "citations": 63,
     "doctype": "article",
     "doi": "10.1093/mnras/stz2731",
     "page": 3508,
@@ -3426,7 +3426,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 491,
+    "citations": 492,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
@@ -3614,7 +3614,7 @@
     ],
     "citations": 0,
     "doctype": "inproceedings",
-    "doi": null,
+    "doi": "10.22323/1.100.0201",
     "page": 201,
     "pub": "Nuclei in the Cosmos",
     "pubdate": "2010-00-00",
