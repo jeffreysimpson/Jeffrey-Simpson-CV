@@ -38,12 +38,12 @@
     "citations": 0,
     "doctype": "article",
     "doi": "10.1093/mnras/stac2787",
-    "page": null,
+    "page": 5325,
     "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2022-10-00",
-    "title": "The galah survey: Chemical clocks",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2022MNRAS.tmp.2717H",
-    "volume": null,
+    "pubdate": "2022-12-00",
+    "title": "The GALAH survey: chemical clocks",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2022MNRAS.517.5325H",
+    "volume": "517",
     "year": "2022"
   },
   {
@@ -74,7 +74,7 @@
       "Wittenmyer, Robert A.",
       "Tepper-Garcia, Thor"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.1093/mnras/stac873",
     "page": 232,
@@ -237,7 +237,7 @@
       "Wang, Purmortal",
       "Wittenmyer, Rob A."
     ],
-    "citations": 22,
+    "citations": 23,
     "doctype": "article",
     "doi": "10.1093/mnras/stab3341",
     "page": 734,
@@ -461,7 +461,7 @@
       "Zucker, Daniel B.",
       "Zwitter, Toma{\\v{z}}"
     ],
-    "citations": 32,
+    "citations": 34,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2304",
     "page": 2684,
@@ -564,7 +564,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 192,
+    "citations": 197,
     "doctype": "article",
     "doi": "10.1093/mnras/stab1242",
     "page": 150,
@@ -617,7 +617,7 @@
       "Wright, Duncan",
       "Wyse, Rosemary F. G."
     ],
-    "citations": 33,
+    "citations": 34,
     "doctype": "article",
     "doi": "10.1093/mnras/stab1086",
     "page": 1761,
@@ -785,7 +785,7 @@
       "Montet, Benjamin",
       "Wittenmyer, Rob"
     ],
-    "citations": 36,
+    "citations": 37,
     "doctype": "article",
     "doi": "10.1093/mnras/stab1356",
     "page": 5340,
@@ -956,7 +956,7 @@
       "Zucker, D. B.",
       "Zwitter, T."
     ],
-    "citations": 44,
+    "citations": 45,
     "doctype": "article",
     "doi": "10.1093/mnras/stab471",
     "page": 3279,
@@ -1339,7 +1339,7 @@
       "Horner, J.",
       "GALAH Collaboration"
     ],
-    "citations": 38,
+    "citations": 39,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202038650",
     "page": null,
@@ -1416,7 +1416,7 @@
       "Geisler, Doug",
       "O'Connell, Julia E."
     ],
-    "citations": 24,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.1093/mnras/staa1661",
     "page": 4964,
@@ -1480,7 +1480,7 @@
       "Zucker, D. B.",
       "Zwitter, Toma{\\v{z}}"
     ],
-    "citations": 24,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ab9a46",
     "page": 58,
@@ -1734,7 +1734,7 @@
       "Simpson, J. D.",
       "Wan, Z."
     ],
-    "citations": 28,
+    "citations": 29,
     "doctype": "article",
     "doi": "10.1093/mnrasl/slz156",
     "page": null,
@@ -1774,7 +1774,7 @@
       "Wyse, Rosemary F. G.",
       "{\\v{Z}}erjal, Maru{\\v{s}}a"
     ],
-    "citations": 19,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3048",
     "page": 2043,
@@ -1909,7 +1909,7 @@
       "Wright, Duncan",
       "Wyse, Rosemary F. G."
     ],
-    "citations": 52,
+    "citations": 53,
     "doctype": "article",
     "doi": "10.1093/mnras/stz2861",
     "page": 5335,
@@ -1936,7 +1936,7 @@
       "Sharma, Sanjib",
       "Zucker, Daniel B."
     ],
-    "citations": 8,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ab4fea",
     "page": 73,
@@ -1971,7 +1971,7 @@
       "Zucker, Daniel B.",
       "Zwitter, Toma{\\v{z}}"
     ],
-    "citations": 57,
+    "citations": 58,
     "doctype": "article",
     "doi": "10.1093/mnras/stz2462",
     "page": 4962,
@@ -2173,7 +2173,7 @@
       "Ting, Yuan-Sen",
       "Wyse, Rosemary F. G."
     ],
-    "citations": 140,
+    "citations": 141,
     "doctype": "article",
     "doi": "10.1093/mnras/stz217",
     "page": 1167,
@@ -2485,7 +2485,7 @@
       "Wittenmyer, Rob A.",
       "{\\v{Z}}erjal, Maru{\\v{s}}a"
     ],
-    "citations": 26,
+    "citations": 27,
     "doctype": "article",
     "doi": "10.1093/mnras/sty2293",
     "page": 645,
@@ -2561,7 +2561,7 @@
       "Nataf, David M.",
       "Ting, Yuan-Sen"
     ],
-    "citations": 10,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.1093/mnras/sty2175",
     "page": 5475,
@@ -2620,7 +2620,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 253,
+    "citations": 255,
     "doctype": "article",
     "doi": "10.1093/mnras/sty1281",
     "page": 4513,
@@ -2888,7 +2888,7 @@
       "Traven, Gregor",
       "Wright, Duncan"
     ],
-    "citations": 40,
+    "citations": 41,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaa3e4",
     "page": 84,
@@ -2928,7 +2928,7 @@
       "Wittenmyer, Rob A.",
       "Zucker, Daniel B."
     ],
-    "citations": 79,
+    "citations": 81,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2582",
     "page": 2004,
@@ -3105,7 +3105,7 @@
       "Reid, W.",
       "Ting, Y. -S."
     ],
-    "citations": 37,
+    "citations": 38,
     "doctype": "article",
     "doi": "10.3847/1538-4365/228/2/24",
     "page": 24,
@@ -3186,7 +3186,7 @@
       "Watson, Fred",
       "Wittenmyer, Robert A."
     ],
-    "citations": 53,
+    "citations": 55,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2064",
     "page": 1259,
@@ -3364,7 +3364,7 @@
       "Zucker, Daniel",
       "Zwitter, Tomaz"
     ],
-    "citations": 54,
+    "citations": 57,
     "doctype": "article",
     "doi": "10.1117/1.JATIS.1.3.035002",
     "page": 35002,
@@ -3426,7 +3426,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 495,
+    "citations": 499,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
@@ -3560,7 +3560,7 @@
       "Cottrell, P. L.",
       "Worley, C. C."
     ],
-    "citations": 15,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.1111/j.1365-2966.2012.22012.x",
     "page": 1153,
