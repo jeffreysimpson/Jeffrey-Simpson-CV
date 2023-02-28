@@ -564,7 +564,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 221,
+    "citations": 222,
     "doctype": "article",
     "doi": "10.1093/mnras/stab1242",
     "page": 150,
@@ -1163,45 +1163,6 @@
     "year": "2020"
   },
   {
-    "arxiv": "2011.02783",
-    "authors": [
-      "Nandakumar, Govind",
-      "Hayden, Michael R.",
-      "Sharma, Sanjib",
-      "Buder, Sven",
-      "Asplund, Martin",
-      "Bland-Hawthorn, Joss",
-      "De Silva, Gayandhi M.",
-      "D'Orazi, Valentina",
-      "Freeman, Ken C.",
-      "Kos, Janez",
-      "Lewis, Geraint F.",
-      "Martell, Sarah L.",
-      "Schlesinger, Katharine J.",
-      "Lin, Jane",
-      "Simpson, Jeffrey D.",
-      "Zucker, Daniel B.",
-      "Zwitter, Tomaz",
-      "Nordlander, Thomas",
-      "Casagrande, Luca",
-      "Lind, Karin",
-      "Cotar, Klemen",
-      "Stello, Dennis",
-      "Wittenmyer, Robert A.",
-      "Tepper-Garcia, Thor"
-    ],
-    "citations": 9,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2011.02783",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2020-11-00",
-    "title": "Combined APOGEE-GALAH stellar catalogues using the Cannon",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2020arXiv201102783N",
-    "volume": null,
-    "year": "2020"
-  },
-  {
     "arxiv": null,
     "authors": [
       "Ji, A. P.",
@@ -1696,7 +1657,7 @@
       "Wang, Mei-Yu",
       "S5 Collaboration"
     ],
-    "citations": 64,
+    "citations": 65,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3081",
     "page": 2465,
