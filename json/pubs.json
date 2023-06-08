@@ -1,6 +1,6 @@
 [
   {
-    "arxiv": null,
+    "arxiv": "2011.13745",
     "authors": [
       "Hayden, Michael R.",
       "Sharma, Sanjib",
@@ -149,7 +149,7 @@
       "De Silva, Gayandhi M.",
       "Simon, Joshua D."
     ],
-    "citations": 45,
+    "citations": 44,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac46d3",
     "page": 30,
@@ -564,7 +564,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 252,
+    "citations": 251,
     "doctype": "article",
     "doi": "10.1093/mnras/stab1242",
     "page": 150,
@@ -1118,51 +1118,6 @@
     "year": "2021"
   },
   {
-    "arxiv": "2011.13745",
-    "authors": [
-      "Hayden, Michael R.",
-      "Sharma, Sanjib",
-      "Bland-Hawthorn, Joss",
-      "Spina, Lorenzo",
-      "Buder, Sven",
-      "Asplund, Martin",
-      "Casey, Andrew R.",
-      "De Silva, Gayandhi M.",
-      "D'Orazi, Valentina",
-      "Freeman, Ken C.",
-      "Kos, Janez",
-      "Lewis, Geraint F.",
-      "Lin, Jane",
-      "Lind, Karin",
-      "Martell, Sarah L.",
-      "Schlesinger, Katharine J.",
-      "Simpson, Jeffrey D.",
-      "Zucker, Daniel B.",
-      "Zwitter, Tomaz",
-      "Chen, Boquan",
-      "Cotar, Klemen",
-      "Feuillet, Diane",
-      "Horner, Jonti",
-      "Joyce, Meridith",
-      "Nordlander, Thomas",
-      "Stello, Dennis",
-      "Tepper-Garcia, Thorsten",
-      "Ting, Yuan-sen",
-      "Wang, Purmortal",
-      "Wittenmyer, Rob"
-    ],
-    "citations": 16,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2011.13745",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2020-11-00",
-    "title": "The GALAH Survey: Chemical Clocks",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2020arXiv201113745H",
-    "volume": null,
-    "year": "2020"
-  },
-  {
     "arxiv": null,
     "authors": [
       "Ji, A. P.",
@@ -1259,7 +1214,7 @@
       "Wan, Zhen",
       "Zucker, Daniel B."
     ],
-    "citations": 48,
+    "citations": 47,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abacb6",
     "page": 181,
