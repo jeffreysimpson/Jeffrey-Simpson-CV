@@ -1,6 +1,6 @@
 [
   {
-    "arxiv": null,
+    "arxiv": "2011.13745",
     "authors": [
       "Hayden, Michael R.",
       "Sharma, Sanjib",
@@ -35,7 +35,7 @@
       "Wittenmyer, Rob",
       "Wyse, Rosemary"
     ],
-    "citations": 21,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.1093/mnras/stac2787",
     "page": 5325,
@@ -47,7 +47,7 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
+    "arxiv": "2011.02783",
     "authors": [
       "Nandakumar, Govind",
       "Hayden, Michael R.",
@@ -74,7 +74,7 @@
       "Wittenmyer, Robert A.",
       "Tepper-Garcia, Thor"
     ],
-    "citations": 15,
+    "citations": 14,
     "doctype": "article",
     "doi": "10.1093/mnras/stac873",
     "page": 232,
@@ -86,7 +86,7 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
+    "arxiv": "2203.10843",
     "authors": [
       "Hughes, Arvind C. N.",
       "Spitler, Lee R.",
@@ -125,7 +125,7 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
+    "arxiv": "2110.06950",
     "authors": [
       "Li, Ting S.",
       "Ji, Alexander P.",
@@ -161,7 +161,7 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
+    "arxiv": "2109.04059",
     "authors": [
       "Buder, Sven",
       "Lind, Karin",
@@ -194,7 +194,7 @@
       "Wyse, Rosemary F. G.",
       "Wyse, Galah Collaboration"
     ],
-    "citations": 39,
+    "citations": 40,
     "doctype": "article",
     "doi": "10.1093/mnras/stab3504",
     "page": 2407,
@@ -206,7 +206,7 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
+    "arxiv": "2011.13818",
     "authors": [
       "Sharma, Sanjib",
       "Hayden, Michael R.",
@@ -249,7 +249,7 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
+    "arxiv": "2111.14883",
     "authors": [
       "Clark, Jake T.",
       "Wright, Duncan J.",
@@ -291,7 +291,7 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
+    "arxiv": "2107.13004",
     "authors": [
       "Shipp, Nora",
       "Erkal, Denis",
@@ -325,7 +325,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2012.12201",
     "authors": [
       "Zwitter, Toma{\\v{z}}",
       "Kos, Janez",
@@ -356,7 +356,7 @@
       "Watson, Fred",
       "Wittenmyer, Rob"
     ],
-    "citations": 8,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2673",
     "page": 4202,
@@ -368,7 +368,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2106.12656",
     "authors": [
       "Ji, Alexander P.",
       "Koposov, Sergey E.",
@@ -401,7 +401,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2109.03948",
     "authors": [
       "Casey, Andrew R.",
       "Ji, Alexander P.",
@@ -432,7 +432,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2011.02517",
     "authors": [
       "Casagrande, Luca",
       "Lin, Jane",
@@ -461,7 +461,7 @@
       "Zucker, Daniel B.",
       "Zwitter, Toma{\\v{z}}"
     ],
-    "citations": 47,
+    "citations": 46,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2304",
     "page": 2684,
@@ -473,7 +473,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2011.02659",
     "authors": [
       "Simpson, Jeffrey D.",
       "Martell, Sarah L.",
@@ -514,44 +514,7 @@
     "year": "2021"
   },
   {
-    "arxiv": "2110.06950",
-    "authors": [
-      "Li, Ting S.",
-      "Ji, Alexander P.",
-      "Pace, Andrew B.",
-      "Erkal, Denis",
-      "Koposov, Sergey E.",
-      "Shipp, Nora",
-      "Da Costa, Gary S.",
-      "Cullinane, Lara R.",
-      "Kuehn, Kyler",
-      "Lewis, Geraint F.",
-      "Mackey, Dougal",
-      "Simpson, Jeffrey D.",
-      "Zucker, Daniel B.",
-      "Ferguson, Peter S.",
-      "Martell, Sarah L.",
-      "Bland-Hawthorn, Joss",
-      "Balbinot, Eduardo",
-      "Tavangar, Kiyan",
-      "Drlica-Wagner, Alex",
-      "De Silva, Gayandhi M.",
-      "Simon, Joshua D.",
-      "S5 Collaboration"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2110.06950",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2021-10-00",
-    "title": "$S^5$: The Orbital and Chemical Properties of One Dozen Stellar Streams",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2021arXiv211006950L",
-    "volume": null,
-    "year": "2021"
-  },
-  {
-    "arxiv": null,
+    "arxiv": "2011.02505",
     "authors": [
       "Buder, Sven",
       "Sharma, Sanjib",
@@ -601,7 +564,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 268,
+    "citations": 260,
     "doctype": "article",
     "doi": "10.1093/mnras/stab1242",
     "page": 150,
@@ -613,7 +576,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2004.06556",
     "authors": [
       "Sharma, Sanjib",
       "Hayden, Michael R.",
@@ -666,7 +629,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2011.02485",
     "authors": [
       "Kos, Janez",
       "Bland-Hawthorn, Joss",
@@ -764,7 +727,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2006.02106",
     "authors": [
       "Martell, Sarah L.",
       "Simpson, Jeffrey D.",
@@ -790,7 +753,7 @@
       "Montet, Benjamin",
       "Wittenmyer, Rob"
     ],
-    "citations": 47,
+    "citations": 46,
     "doctype": "article",
     "doi": "10.1093/mnras/stab1356",
     "page": 5340,
@@ -802,7 +765,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2104.02686",
     "authors": [
       "Munari, U.",
       "Traven, G.",
@@ -822,7 +785,7 @@
       "Wittenmyer, R. A.",
       "Zucker, D. B."
     ],
-    "citations": 10,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.1093/mnras/stab1620",
     "page": 6121,
@@ -834,7 +797,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2008.05372",
     "authors": [
       "Clark, Jake T.",
       "Clert{\\'e}, Mathieu",
@@ -881,7 +844,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2104.13883",
     "authors": [
       "Hansen, Terese T.",
       "Ji, Alexander P.",
@@ -959,40 +922,7 @@
     "year": "2021"
   },
   {
-    "arxiv": "2106.12656",
-    "authors": [
-      "Ji, Alexander P.",
-      "Koposov, Sergey E.",
-      "Li, Ting S.",
-      "Erkal, Denis",
-      "Pace, Andrew B.",
-      "Simon, Joshua D.",
-      "Belokurov, Vasily",
-      "Cullinane, Lara R.",
-      "Da Costa, Gary S.",
-      "Kuehn, Kyler",
-      "Lewis, Geraint F.",
-      "Mackey, Dougal",
-      "Shipp, Nora",
-      "Simpson, Jeffrey D.",
-      "Zucker, Daniel B.",
-      "Hansen, Terese T.",
-      "Bland-Hawthorn, Joss",
-      "S5 Collaboration"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2106.12656",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2021-06-00",
-    "title": "Kinematics of Antlia 2 and Crater 2 from The Southern Stellar Stream Spectroscopic Survey (S5)",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2021arXiv210612656J",
-    "volume": null,
-    "year": "2021"
-  },
-  {
-    "arxiv": null,
+    "arxiv": "2011.02533",
     "authors": [
       "Spina, L.",
       "Ting, Y. -S.",
@@ -1026,7 +956,7 @@
       "Zucker, D. B.",
       "Zwitter, T."
     ],
-    "citations": 55,
+    "citations": 54,
     "doctype": "article",
     "doi": "10.1093/mnras/stab471",
     "page": 3279,
@@ -1038,7 +968,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2104.08684",
     "authors": [
       "Zucker, Daniel B.",
       "Simpson, Jeffrey D.",
@@ -1152,7 +1082,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2006.10763",
     "authors": [
       "Li, Ting S.",
       "Koposov, Sergey E.",
@@ -1262,280 +1192,7 @@
     "year": "2020"
   },
   {
-    "arxiv": "2011.02517",
-    "authors": [
-      "Casagrande, L.",
-      "Lin, J.",
-      "Rains, A. D.",
-      "Liu, F.",
-      "Buder, S.",
-      "Horner, J.",
-      "Asplund, M.",
-      "Lewis, G. F.",
-      "Martell, S. L.",
-      "Nordlander, T.",
-      "Stello, D.",
-      "Ting, Y. -S.",
-      "Wittenmyer, R. A.",
-      "Bland-Hawthorn, J.",
-      "Casey, A. R.",
-      "De Silva, G. M.",
-      "D'Orazi, V.",
-      "Freeman, K. C.",
-      "Hayden, M. R.",
-      "Kos, J.",
-      "Lind, K.",
-      "Schlesinger, K. J.",
-      "Sharma, S.",
-      "Simpson, J. D.",
-      "Zucker, D. B.",
-      "Zwitter, T."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2011.02517",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2020-11-00",
-    "title": "The GALAH survey: effective temperature calibration from the InfraRed Flux Method in the Gaia system",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2020arXiv201102517C",
-    "volume": null,
-    "year": "2020"
-  },
-  {
-    "arxiv": "2011.02659",
-    "authors": [
-      "Simpson, Jeffrey D.",
-      "Martell, Sarah L.",
-      "Buder, Sven",
-      "Sharma, Sanjib",
-      "Asplund, Martin",
-      "Bland-Hawthorn, Joss",
-      "Casey, Andrew R.",
-      "De Silva, Gayandhi M.",
-      "D'Orazi, Valentina",
-      "Freeman, Ken C.",
-      "Hayden, Michael",
-      "Kos, Janez",
-      "Lewis, Geraint F.",
-      "Lind, Karin",
-      "Stello, Dennis",
-      "Zucker, Daniel B.",
-      "Zwitter, Toma{\\v{z}}",
-      "Schlesinger, Katharine J.",
-      "Ting, Yuan-Sen",
-      "Nordlander, Thomas",
-      "Da Costa, Gary",
-      "{\\v{C}}otar, Klemen",
-      "Horner, Jonathan",
-      "Tepper-Garc{\\'\\i}a, Thor",
-      "The GALAH Collaboration"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2011.02659",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2020-11-00",
-    "title": "The GALAH Survey: Accreted stars also inhabit the Spite Plateau",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2020arXiv201102659S",
-    "volume": null,
-    "year": "2020"
-  },
-  {
-    "arxiv": "2011.02505",
-    "authors": [
-      "Buder, Sven",
-      "Sharma, Sanjib",
-      "Kos, Janez",
-      "Amarsi, Anish M.",
-      "Nordlander, Thomas",
-      "Lind, Karin",
-      "Martell, Sarah L.",
-      "Asplund, Martin",
-      "Bland-Hawthorn, Joss",
-      "Casey, Andrew R.",
-      "De Silva, Gayandhi M.",
-      "D'Orazi, Valentina",
-      "Freeman, Ken C.",
-      "Hayden, Michael R.",
-      "Lewis, Geraint F.",
-      "Lin, Jane",
-      "Schlesinger, Katharine J.",
-      "Simpson, Jeffrey D.",
-      "Stello, Dennis",
-      "Zucker, Daniel B.",
-      "Zwitter, Tomaz",
-      "Beeson, Kevin L.",
-      "Buck, Tobias",
-      "Casagrande, Luca",
-      "Clark, Jake T.",
-      "Cotar, Klemen",
-      "Da Costa, Gary S.",
-      "de Grijs, Richard",
-      "Feuillet, Diane",
-      "Horner, Jonathan",
-      "Kafle, Prajwal R.",
-      "Khanna, Shourya",
-      "Kobayashi, Chiaki",
-      "Liu, Fan",
-      "Montet, Benjamin T.",
-      "Nandakumar, Govind",
-      "Nataf, David M.",
-      "Ness, Melissa K.",
-      "Spina, Lorenzo",
-      "Tepper-Garcia, Thor",
-      "Ting, Yuan-Sen",
-      "Traven, Gregor",
-      "Vogrincic, Rok",
-      "Wittenmyer, Robert A.",
-      "Wyse, Rosemary F. G.",
-      "Zerjal, Marusa",
-      "the GALAH collaboration"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2011.02505",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2020-11-00",
-    "title": "The GALAH+ Survey: Third Data Release",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2020arXiv201102505B",
-    "volume": null,
-    "year": "2020"
-  },
-  {
-    "arxiv": "2011.02533",
-    "authors": [
-      "Spina, Lorenzo",
-      "Ting, Yuan-Sen",
-      "De Silva, Gayandhi M.",
-      "Frankel, Neige",
-      "Sharma, Sanjib",
-      "Cantat-Gaudin, Tristan",
-      "Joyce, Meridith",
-      "Stello, Dennis",
-      "Karakas, Amanda I.",
-      "Asplund, Martin B.",
-      "Nordlander, Thomas",
-      "Casagrande, Luca",
-      "D'Orazi, Valentina",
-      "Casey, Andrew R.",
-      "Cottrell, Peter",
-      "Tepper-Garc{\\'\\i}a, Thor",
-      "Baratella, Martina",
-      "Kos, Janez",
-      "{\\v{C}}otar, Klemen",
-      "Bland-Hawthorn, Joss",
-      "Buder, Sven",
-      "Freeman, Ken C.",
-      "Hayden, Michael R.",
-      "Lewis, Geraint F.",
-      "Lin, Jane",
-      "Lind, Karin",
-      "Martell, Sarah L.",
-      "Schlesinger, Katharine J.",
-      "Simpson, Jeffrey D.",
-      "Zucker, Daniel B.",
-      "Zwitter, Toma{\\v{z}}"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2011.02533",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2020-11-00",
-    "title": "The GALAH survey: tracing the Galactic disk with Open Clusters",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2020arXiv201102533S",
-    "volume": null,
-    "year": "2020"
-  },
-  {
-    "arxiv": "2011.13745",
-    "authors": [
-      "Hayden, Michael R.",
-      "Sharma, Sanjib",
-      "Bland-Hawthorn, Joss",
-      "Spina, Lorenzo",
-      "Buder, Sven",
-      "Asplund, Martin",
-      "Casey, Andrew R.",
-      "De Silva, Gayandhi M.",
-      "D'Orazi, Valentina",
-      "Freeman, Ken C.",
-      "Kos, Janez",
-      "Lewis, Geraint F.",
-      "Lin, Jane",
-      "Lind, Karin",
-      "Martell, Sarah L.",
-      "Schlesinger, Katharine J.",
-      "Simpson, Jeffrey D.",
-      "Zucker, Daniel B.",
-      "Zwitter, Tomaz",
-      "Chen, Boquan",
-      "Cotar, Klemen",
-      "Feuillet, Diane",
-      "Horner, Jonti",
-      "Joyce, Meridith",
-      "Nordlander, Thomas",
-      "Stello, Dennis",
-      "Tepper-Garcia, Thorsten",
-      "Ting, Yuan-sen",
-      "Wang, Purmortal",
-      "Wittenmyer, Rob"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2011.13745",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2020-11-00",
-    "title": "The GALAH Survey: Chemical Clocks",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2020arXiv201113745H",
-    "volume": null,
-    "year": "2020"
-  },
-  {
-    "arxiv": "2011.02783",
-    "authors": [
-      "Nandakumar, Govind",
-      "Hayden, Michael R.",
-      "Sharma, Sanjib",
-      "Buder, Sven",
-      "Asplund, Martin",
-      "Bland-Hawthorn, Joss",
-      "De Silva, Gayandhi M.",
-      "D'Orazi, Valentina",
-      "Freeman, Ken C.",
-      "Kos, Janez",
-      "Lewis, Geraint F.",
-      "Martell, Sarah L.",
-      "Schlesinger, Katharine J.",
-      "Lin, Jane",
-      "Simpson, Jeffrey D.",
-      "Zucker, Daniel B.",
-      "Zwitter, Tomaz",
-      "Nordlander, Thomas",
-      "Casagrande, Luca",
-      "Lind, Karin",
-      "Cotar, Klemen",
-      "Stello, Dennis",
-      "Wittenmyer, Robert A.",
-      "Tepper-Garcia, Thor"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2011.02783",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2020-11-00",
-    "title": "Combined APOGEE-GALAH stellar catalogues using the Cannon",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2020arXiv201102783N",
-    "volume": null,
-    "year": "2020"
-  },
-  {
-    "arxiv": null,
+    "arxiv": "2008.07568",
     "authors": [
       "Ji, Alexander P.",
       "Li, Ting S.",
@@ -1557,7 +1214,7 @@
       "Wan, Zhen",
       "Zucker, Daniel B."
     ],
-    "citations": 48,
+    "citations": 47,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abacb6",
     "page": 181,
@@ -1569,7 +1226,7 @@
     "year": "2020"
   },
   {
-    "arxiv": null,
+    "arxiv": "2008.09582",
     "authors": [
       "Amarsi, A. M.",
       "Lind, K.",
@@ -1610,7 +1267,7 @@
     "year": "2020"
   },
   {
-    "arxiv": null,
+    "arxiv": "2006.05173",
     "authors": [
       "Gao, Xudong",
       "Lind, Karin",
@@ -1650,7 +1307,7 @@
     "year": "2020"
   },
   {
-    "arxiv": null,
+    "arxiv": "2006.08641",
     "authors": [
       "Arentsen, Anke",
       "Starkenburg, Else",
@@ -1687,54 +1344,7 @@
     "year": "2020"
   },
   {
-    "arxiv": "2008.05372",
-    "authors": [
-      "Clark, Jake T.",
-      "Clerte, Mathieu",
-      "Hinkel, Natalie R.",
-      "Unterborn, Cayman T.",
-      "Wittenmyer, Robert A.",
-      "Horner, Jonathan",
-      "Wright, Duncan J.",
-      "Carter, Brad",
-      "Morton, Timothy D.",
-      "Spina, Lorenzo",
-      "Asplund, Martin",
-      "Buder, Sven",
-      "Bland-Hawthorn, Joss",
-      "Casey, Andy",
-      "De Silva, Gayandhi",
-      "D'Orazi, Valentina",
-      "Duong, Ly",
-      "Hayden, Michael",
-      "Freeman, Ken",
-      "Kos, Janez",
-      "Lewis, Geraint",
-      "Lin, Jane",
-      "Lind, Karin",
-      "Martell, Sarah",
-      "Sharma, Sanjib",
-      "Simpson, Jeffrey",
-      "Zucker, Dan",
-      "Zwitter, Tomaz",
-      "Tinney, Christopher G.",
-      "Ting, Yuan-Sen",
-      "Nordlander, Thomas",
-      "Amarsi, Anish M."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2008.05372",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2020-08-00",
-    "title": "The GALAH Survey: Using Galactic Archaeology to Refine our Knowledge of TESS Target Stars",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2020arXiv200805372C",
-    "volume": null,
-    "year": "2020"
-  },
-  {
-    "arxiv": null,
+    "arxiv": "2007.14577",
     "authors": [
       "Wan, Zhen",
       "Lewis, Geraint F.",
@@ -1770,7 +1380,7 @@
     "year": "2020"
   },
   {
-    "arxiv": null,
+    "arxiv": "2001.08227",
     "authors": [
       "Wheeler, Adam",
       "Ness, Melissa",
@@ -1798,7 +1408,7 @@
     "year": "2020"
   },
   {
-    "arxiv": null,
+    "arxiv": "2005.10959",
     "authors": [
       "Wittenmyer, Robert A.",
       "Clark, Jake T.",
@@ -1838,43 +1448,7 @@
     "year": "2020"
   },
   {
-    "arxiv": "2007.14577",
-    "authors": [
-      "Wan, Zhen",
-      "Lewis, Geraint F.",
-      "Li, Ting S.",
-      "Simpson, Jeffrey D.",
-      "Martell, Sarah L.",
-      "Zucker, Daniel B.",
-      "Mould, Jeremy R.",
-      "Erkal, Denis",
-      "Pace, Andrew B.",
-      "Mackey, Dougal",
-      "Ji, Alexander P.",
-      "Koposov, Sergey E.",
-      "Kuehn, Kyler",
-      "Shipp, Nora",
-      "Balbinot, Eduardo",
-      "Bland-Hawthorn, Joss",
-      "Casey, Andrew R.",
-      "Da Costa, Gary S.",
-      "Kafle, Prajwal",
-      "Sharma, Sanjib",
-      "De Silva, Gayandhi M."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2007.14577",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2020-07-00",
-    "title": "The tidal remnant of an unusually metal-poor globular cluster",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2020arXiv200714577W",
-    "volume": null,
-    "year": "2020"
-  },
-  {
-    "arxiv": null,
+    "arxiv": "2004.07556",
     "authors": [
       "Kawka, Adela",
       "Simpson, Jeffrey D.",
@@ -1896,7 +1470,7 @@
     "year": "2020"
   },
   {
-    "arxiv": null,
+    "arxiv": "2005.00014",
     "authors": [
       "Traven, G.",
       "Feltzing, S.",
@@ -1926,7 +1500,7 @@
       "Munari, U.",
       "Wittenmyer, R. A."
     ],
-    "citations": 36,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202037484",
     "page": null,
@@ -1980,79 +1554,6 @@
     "year": "2020"
   },
   {
-    "arxiv": "2006.02106",
-    "authors": [
-      "Martell, Sarah",
-      "Simpson, Jeffrey",
-      "Balasubramaniam, Adithya",
-      "Buder, Sven",
-      "Sharma, Sanjib",
-      "Hon, Marc",
-      "Stello, Dennis",
-      "Ting, Yuan-Sen",
-      "Asplund, Martin",
-      "Bland-Hawthorn, Joss",
-      "De Silva, Gayandhi",
-      "Freeman, Ken",
-      "Hayden, Michael",
-      "Kos, Janez",
-      "Lewis, Geraint",
-      "Lind, Karin",
-      "Zucker, Daniel",
-      "Zwitter, Tomaz",
-      "Campbell, Simon",
-      "Cotar, Klemen",
-      "Horner, Jonathan",
-      "Montet, Benjamin",
-      "Wittenmyer, Rob"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2006.02106",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2020-06-00",
-    "title": "The GALAH survey: A census of lithium-rich giant stars",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2020arXiv200602106M",
-    "volume": null,
-    "year": "2020"
-  },
-  {
-    "arxiv": "2006.10763",
-    "authors": [
-      "Li, Ting S.",
-      "Koposov, Sergey E.",
-      "Erkal, Denis",
-      "Ji, Alexander P.",
-      "Shipp, Nora",
-      "Pace, Andrew B.",
-      "Hilmi, Tariq",
-      "Kuehn, Kyler",
-      "Lewis, Geraint F.",
-      "Mackey, Dougal",
-      "Simpson, Jeffrey D.",
-      "Wan, Zhen",
-      "Zucker, Daniel B.",
-      "Bland-Hawthorn, Joss",
-      "Cullinane, Lara R.",
-      "Da Costa, Gary S.",
-      "Drlica-Wagner, Alex",
-      "Hattori, Kohei",
-      "Martell, Sarah L.",
-      "Sharma, Sanjib"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2006.10763",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2020-06-00",
-    "title": "Broken into Pieces: ATLAS and Aliqa Uma as One Single Stream",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2020arXiv200610763L",
-    "volume": null,
-    "year": "2020"
-  },
-  {
     "arxiv": null,
     "authors": [
       "Simpson, Jeffrey D."
@@ -2069,59 +1570,7 @@
     "year": "2020"
   },
   {
-    "arxiv": "2004.06556",
-    "authors": [
-      "Sharma, Sanjib",
-      "Hayden, Michael R.",
-      "Bland-Hawthorn, Joss",
-      "Stello, Dennis",
-      "Buder, Sven",
-      "Zinn, Joel C.",
-      "Kallinger, Thomas",
-      "Asplund, Martin",
-      "De Silva, Gayandhi M.",
-      "Dorazi, Valentina",
-      "Freeman, Ken",
-      "Kos, Janez",
-      "Lewis, Geraint F.",
-      "Lin, Jane",
-      "Lind, Karin",
-      "Martell, Sarah",
-      "Simpson, Jeffrey D.",
-      "Wittenmyer, Rob A.",
-      "Zucker, Daniel B.",
-      "Zwitter, Tomaz",
-      "Chen, Boquan",
-      "Cotar, Klemen",
-      "Esdaile, James",
-      "Hon, Marc",
-      "Horner, Jonathan",
-      "Huber, Daniel",
-      "Kafle, Prajwal R.",
-      "Khanna, Shourya",
-      "Ting, Yuan-sen",
-      "Nataf, David M.",
-      "Nordlander, Thomas",
-      "Saadon, Mohd Hafiz Mohd",
-      "Tinney, C. G.",
-      "Traven, Gregor",
-      "Watson, Fred",
-      "Wright, Duncan",
-      "Wyse, Rosemary F. G."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2004.06556",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2020-04-00",
-    "title": "Fundamental relations for the velocity dispersion of stars in the Milky Way",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2020arXiv200406556S",
-    "volume": null,
-    "year": "2020"
-  },
-  {
-    "arxiv": null,
+    "arxiv": "1907.02527",
     "authors": [
       "Borsato, Nicholas W.",
       "Martell, Sarah L.",
@@ -2139,7 +1588,7 @@
     "year": "2020"
   },
   {
-    "arxiv": null,
+    "arxiv": "1907.11725",
     "authors": [
       "Koposov, Sergey E.",
       "Boubert, Douglas",
@@ -2175,7 +1624,7 @@
     "year": "2020"
   },
   {
-    "arxiv": null,
+    "arxiv": "1910.06337",
     "authors": [
       "Arentsen, A.",
       "Starkenburg, E.",
@@ -2201,7 +1650,7 @@
       "Simpson, J. D.",
       "Wan, Z."
     ],
-    "citations": 37,
+    "citations": 36,
     "doctype": "article",
     "doi": "10.1093/mnrasl/slz156",
     "page": null,
@@ -2213,7 +1662,7 @@
     "year": "2020"
   },
   {
-    "arxiv": null,
+    "arxiv": "1911.01548",
     "authors": [
       "Simpson, Jeffrey D.",
       "Martell, Sarah L.",
@@ -2248,7 +1697,7 @@
     "year": "2020"
   },
   {
-    "arxiv": null,
+    "arxiv": "1911.05221",
     "authors": [
       "Lin, Jane",
       "Asplund, Martin",
@@ -2288,7 +1737,7 @@
     "year": "2020"
   },
   {
-    "arxiv": null,
+    "arxiv": "1907.09481",
     "authors": [
       "Li, T. S.",
       "Koposov, S. E.",
@@ -2324,7 +1773,7 @@
       "Yanny, B.",
       "S5 Collaboration"
     ],
-    "citations": 69,
+    "citations": 68,
     "doctype": "article",
     "doi": "10.1093/mnras/stz2731",
     "page": 3508,
@@ -2336,7 +1785,7 @@
     "year": "2019"
   },
   {
-    "arxiv": null,
+    "arxiv": "1904.12444",
     "authors": [
       "Sharma, Sanjib",
       "Stello, Dennis",
@@ -2388,7 +1837,7 @@
     "year": "2019"
   },
   {
-    "arxiv": null,
+    "arxiv": "1910.09811",
     "authors": [
       "Casey, Andrew R.",
       "Lattanzio, John C.",
@@ -2415,42 +1864,7 @@
     "year": "2019"
   },
   {
-    "arxiv": null,
-    "authors": [
-      "Khanna, Shourya",
-      "Sharma, Sanjib",
-      "Tepper-Garcia, Thor",
-      "Bland-Hawthorn, Joss",
-      "Hayden, Michael",
-      "Asplund, Martin",
-      "Buder, Sven",
-      "Chen, Boquan",
-      "De Silva, Gayandhi M.",
-      "Freeman, Ken C.",
-      "Kos, Janez",
-      "Lewis, Geraint F.",
-      "Lin, Jane",
-      "Martell, Sarah L.",
-      "Simpson, Jeffrey D.",
-      "Nordlander, Thomas",
-      "Stello, Dennis",
-      "Ting, Yuan-Sen",
-      "Zucker, Daniel B.",
-      "Zwitter, Toma{\\v{z}}"
-    ],
-    "citations": 61,
-    "doctype": "article",
-    "doi": "10.1093/mnras/stz2462",
-    "page": 4962,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2019-11-00",
-    "title": "The GALAH survey and Gaia DR2: Linking ridges, arches, and vertical waves in the kinematics of the Milky Way",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2019MNRAS.489.4962K",
-    "volume": "489",
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
+    "arxiv": "1907.09488",
     "authors": [
       "Shipp, N.",
       "Li, T. S.",
@@ -2482,7 +1896,42 @@
     "year": "2019"
   },
   {
-    "arxiv": null,
+    "arxiv": "1902.10113",
+    "authors": [
+      "Khanna, Shourya",
+      "Sharma, Sanjib",
+      "Tepper-Garcia, Thor",
+      "Bland-Hawthorn, Joss",
+      "Hayden, Michael",
+      "Asplund, Martin",
+      "Buder, Sven",
+      "Chen, Boquan",
+      "De Silva, Gayandhi M.",
+      "Freeman, Ken C.",
+      "Kos, Janez",
+      "Lewis, Geraint F.",
+      "Lin, Jane",
+      "Martell, Sarah L.",
+      "Simpson, Jeffrey D.",
+      "Nordlander, Thomas",
+      "Stello, Dennis",
+      "Ting, Yuan-Sen",
+      "Zucker, Daniel B.",
+      "Zwitter, Toma{\\v{z}}"
+    ],
+    "citations": 59,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stz2462",
+    "page": 4962,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2019-11-00",
+    "title": "The GALAH survey and Gaia DR2: Linking ridges, arches, and vertical waves in the kinematics of the Milky Way",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2019MNRAS.489.4962K",
+    "volume": "489",
+    "year": "2019"
+  },
+  {
+    "arxiv": "1909.06314",
     "authors": [
       "Simpson, Jeffrey D.",
       "Martell, Sarah L."
@@ -2499,7 +1948,7 @@
     "year": "2019"
   },
   {
-    "arxiv": null,
+    "arxiv": "1811.11762",
     "authors": [
       "Kos, Janez",
       "Bland-Hawthorn, Joss",
@@ -2559,34 +2008,7 @@
     "year": "2019"
   },
   {
-    "arxiv": "1910.09811",
-    "authors": [
-      "Casey, Andrew R.",
-      "Lattanzio, John C.",
-      "Aleti, Aldeida",
-      "Dowe, David L.",
-      "Bland-Hawthorn, Joss",
-      "Buder, Sven",
-      "Lewis, Geraint F.",
-      "Martell, Sarah L.",
-      "Nordlander, Thomas",
-      "Simpson, Jeffrey D.",
-      "Sharma, Sanjib",
-      "Zucker, Daniel B."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.1910.09811",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2019-10-00",
-    "title": "A data-driven model of nucleosynthesis with chemical tagging in a lower-dimensional latent space",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2019arXiv191009811C",
-    "volume": null,
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
+    "arxiv": "1902.00447",
     "authors": [
       "Simpson, Jeffrey D."
     ],
@@ -2602,7 +2024,7 @@
     "year": "2019"
   },
   {
-    "arxiv": null,
+    "arxiv": "1904.04841",
     "authors": [
       "{\\v{C}}otar, Klemen",
       "Zwitter, Toma{\\v{z}}",
@@ -2637,7 +2059,7 @@
     "year": "2019"
   },
   {
-    "arxiv": null,
+    "arxiv": "1809.02658",
     "authors": [
       "Bland-Hawthorn, Joss",
       "Sharma, Sanjib",
@@ -2667,7 +2089,7 @@
       "Ting, Yuan-Sen",
       "Wyse, Rosemary F. G."
     ],
-    "citations": 152,
+    "citations": 151,
     "doctype": "article",
     "doi": "10.1093/mnras/stz217",
     "page": 1167,
@@ -2714,7 +2136,7 @@
     "year": "2019"
   },
   {
-    "arxiv": null,
+    "arxiv": "1804.05869",
     "authors": [
       "Buder, S.",
       "Lind, K.",
@@ -2764,7 +2186,7 @@
     "year": "2019"
   },
   {
-    "arxiv": null,
+    "arxiv": "1804.05894",
     "authors": [
       "Simpson, Jeffrey D.",
       "Martell, Sarah L.",
@@ -2856,7 +2278,7 @@
     "year": "2019"
   },
   {
-    "arxiv": null,
+    "arxiv": "1804.07217",
     "authors": [
       "Khanna, Shourya",
       "Sharma, Sanjib",
@@ -2882,7 +2304,7 @@
       "Wittenmyer, Robert A.",
       "Zucker, Daniel B."
     ],
-    "citations": 10,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.1093/mnras/sty2924",
     "page": 4215,
@@ -2894,7 +2316,7 @@
     "year": "2019"
   },
   {
-    "arxiv": null,
+    "arxiv": "1804.06394",
     "authors": [
       "Gao, Xudong",
       "Lind, Karin",
@@ -2939,7 +2361,7 @@
     "year": "2018"
   },
   {
-    "arxiv": null,
+    "arxiv": "1804.06344",
     "authors": [
       "Zwitter, Toma{\\v{z}}",
       "Kos, Janez",
@@ -2991,7 +2413,7 @@
     "year": "2018"
   },
   {
-    "arxiv": null,
+    "arxiv": "1807.00822",
     "authors": [
       "Kos, Janez",
       "de Silva, Gayandhi",
@@ -3030,7 +2452,7 @@
     "year": "2018"
   },
   {
-    "arxiv": null,
+    "arxiv": "1804.05851",
     "authors": [
       "Kos, Janez",
       "Bland-Hawthorn, Joss",
@@ -3067,37 +2489,7 @@
     "year": "2018"
   },
   {
-    "arxiv": "1811.11762",
-    "authors": [
-      "Kos, Janez",
-      "Bland-Hawthorn, Joss",
-      "Asplund, Martin",
-      "Buder, Sven",
-      "Lewis, Geraint F.",
-      "Lin, Jane",
-      "Martell, Sarah L.",
-      "Ness, Melissa K.",
-      "Sharma, Sanjib",
-      "De Silva, Gayandhi M.",
-      "Simpson, Jeffrey D.",
-      "Zucker, Daniel B.",
-      "Zwitter, Toma{\\v{z}}",
-      "{\\v{C}}otar, Klemen",
-      "Spina, Lorenzo"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.1811.11762",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2018-11-00",
-    "title": "Discovery of a 21 Myr old stellar population in the Orion complex",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2018arXiv181111762K",
-    "volume": null,
-    "year": "2018"
-  },
-  {
-    "arxiv": null,
+    "arxiv": "1804.06041",
     "authors": [
       "Buder, Sven",
       "Asplund, Martin",
@@ -3144,7 +2536,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 270,
+    "citations": 269,
     "doctype": "article",
     "doi": "10.1093/mnras/sty1281",
     "page": 4513,
@@ -3156,7 +2548,7 @@
     "year": "2018"
   },
   {
-    "arxiv": null,
+    "arxiv": "1804.02606",
     "authors": [
       "Simpson, Jeffrey D."
     ],
@@ -3172,7 +2564,7 @@
     "year": "2018"
   },
   {
-    "arxiv": null,
+    "arxiv": "1802.02924",
     "authors": [
       "Quillen, Alice C.",
       "De Silva, Gayandhi",
@@ -3245,7 +2637,7 @@
     "year": "2018"
   },
   {
-    "arxiv": null,
+    "arxiv": "1801.01514",
     "authors": [
       "Duong, L.",
       "Freeman, K. C.",
@@ -3331,7 +2723,7 @@
     "year": "2018"
   },
   {
-    "arxiv": null,
+    "arxiv": "1709.00794",
     "authors": [
       "Kos, Janez",
       "Bland-Hawthorn, Joss",
@@ -3375,7 +2767,7 @@
     "year": "2018"
   },
   {
-    "arxiv": null,
+    "arxiv": "1712.06774",
     "authors": [
       "Wittenmyer, Robert A.",
       "Sharma, Sanjib",
@@ -3424,7 +2816,7 @@
     "year": "2018"
   },
   {
-    "arxiv": null,
+    "arxiv": "1707.05753",
     "authors": [
       "Sharma, Sanjib",
       "Stello, Dennis",
@@ -3464,7 +2856,7 @@
     "year": "2018"
   },
   {
-    "arxiv": null,
+    "arxiv": "1708.06875",
     "authors": [
       "Simpson, Jeffrey D.",
       "De Silva, Gayandhi",
@@ -3484,7 +2876,7 @@
     "year": "2017"
   },
   {
-    "arxiv": null,
+    "arxiv": "1703.03823",
     "authors": [
       "Simpson, J. D.",
       "De Silva, G. M.",
@@ -3550,7 +2942,7 @@
     "year": "2017"
   },
   {
-    "arxiv": null,
+    "arxiv": "1609.02822",
     "authors": [
       "Martell, S. L.",
       "Sharma, S.",
@@ -3587,7 +2979,7 @@
       "Watson, F. G.",
       "Wittenmyer, R."
     ],
-    "citations": 154,
+    "citations": 152,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2835",
     "page": 3203,
@@ -3599,7 +2991,7 @@
     "year": "2017"
   },
   {
-    "arxiv": null,
+    "arxiv": "1612.02242",
     "authors": [
       "Traven, G.",
       "Matijevi{\\v{c}}, G.",
@@ -3641,7 +3033,7 @@
     "year": "2017"
   },
   {
-    "arxiv": null,
+    "arxiv": "1610.08562",
     "authors": [
       "Simpson, Jeffrey D.",
       "Martell, Sarah L.",
@@ -3675,7 +3067,7 @@
     "year": "2017"
   },
   {
-    "arxiv": null,
+    "arxiv": "1608.04391",
     "authors": [
       "Kos, Janez",
       "Lin, Jane",
@@ -3771,7 +3163,7 @@
     "year": "2016"
   },
   {
-    "arxiv": null,
+    "arxiv": "1604.05040",
     "authors": [
       "MacLean, B. T.",
       "Campbell, S. W.",
@@ -3793,7 +3185,7 @@
     "year": "2016"
   },
   {
-    "arxiv": null,
+    "arxiv": "1603.08991",
     "authors": [
       "Simpson, Jeffrey D.",
       "De Silva, G. M.",
@@ -3900,7 +3292,7 @@
     "year": "2015"
   },
   {
-    "arxiv": null,
+    "arxiv": "1502.04767",
     "authors": [
       "De Silva, G. M.",
       "Freeman, K. C.",
@@ -3950,7 +3342,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 533,
+    "citations": 531,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
@@ -4045,7 +3437,7 @@
     "year": "2014"
   },
   {
-    "arxiv": null,
+    "arxiv": "1305.3059",
     "authors": [
       "Simpson, Jeffrey D.",
       "Cottrell, P. L."
@@ -4078,7 +3470,7 @@
     "year": "2013"
   },
   {
-    "arxiv": null,
+    "arxiv": "1209.0495",
     "authors": [
       "Simpson, Jeffrey D.",
       "Cottrell, P. L.",
