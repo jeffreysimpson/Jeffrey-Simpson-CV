@@ -564,7 +564,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 279,
+    "citations": 280,
     "doctype": "article",
     "doi": "10.1093/mnras/stab1242",
     "page": 150,
@@ -1864,38 +1864,6 @@
     "year": "2019"
   },
   {
-    "arxiv": "1907.09488",
-    "authors": [
-      "Shipp, N.",
-      "Li, T. S.",
-      "Pace, A. B.",
-      "Erkal, D.",
-      "Drlica-Wagner, A.",
-      "Yanny, B.",
-      "Belokurov, V.",
-      "Wester, W.",
-      "Koposov, S. E.",
-      "Kuehn, K.",
-      "Lewis, G. F.",
-      "Simpson, J. D.",
-      "Wan, Z.",
-      "Zucker, D. B.",
-      "Martell, S. L.",
-      "Wang, M. Y.",
-      "S5 Collaboration"
-    ],
-    "citations": 49,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/ab44bf",
-    "page": 3,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2019-11-00",
-    "title": "Proper Motions of Stellar Streams Discovered in the Dark Energy Survey",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2019ApJ...885....3S",
-    "volume": "885",
-    "year": "2019"
-  },
-  {
     "arxiv": "1902.10113",
     "authors": [
       "Khanna, Shourya",
@@ -1928,6 +1896,38 @@
     "title": "The GALAH survey and Gaia DR2: Linking ridges, arches, and vertical waves in the kinematics of the Milky Way",
     "url": "https://ui.adsabs.harvard.edu/#abs/2019MNRAS.489.4962K",
     "volume": "489",
+    "year": "2019"
+  },
+  {
+    "arxiv": "1907.09488",
+    "authors": [
+      "Shipp, N.",
+      "Li, T. S.",
+      "Pace, A. B.",
+      "Erkal, D.",
+      "Drlica-Wagner, A.",
+      "Yanny, B.",
+      "Belokurov, V.",
+      "Wester, W.",
+      "Koposov, S. E.",
+      "Kuehn, K.",
+      "Lewis, G. F.",
+      "Simpson, J. D.",
+      "Wan, Z.",
+      "Zucker, D. B.",
+      "Martell, S. L.",
+      "Wang, M. Y.",
+      "S5 Collaboration"
+    ],
+    "citations": 49,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ab44bf",
+    "page": 3,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2019-11-00",
+    "title": "Proper Motions of Stellar Streams Discovered in the Dark Energy Survey",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2019ApJ...885....3S",
+    "volume": "885",
     "year": "2019"
   },
   {
