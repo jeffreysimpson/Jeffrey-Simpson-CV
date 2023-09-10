@@ -564,7 +564,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 286,
+    "citations": 287,
     "doctype": "article",
     "doi": "10.1093/mnras/stab1242",
     "page": 150,
@@ -797,38 +797,6 @@
     "year": "2021"
   },
   {
-    "arxiv": "2104.13883",
-    "authors": [
-      "Hansen, Terese T.",
-      "Ji, Alexander P.",
-      "Da Costa, Gary S.",
-      "Li, Ting S.",
-      "Casey, Andrew R.",
-      "Pace, Andrew B.",
-      "Cullinane, Lara R.",
-      "Erkal, Denis",
-      "Koposov, Sergey E.",
-      "Kuehn, Kyler",
-      "Lewis, Geraint F.",
-      "Mackey, Dougal",
-      "Simpson, Jeffrey D.",
-      "Shipp, Nora",
-      "Zucker, Daniel B.",
-      "Bland-Hawthorn, Joss",
-      "S5 Collaboration"
-    ],
-    "citations": 7,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/abfc54",
-    "page": 103,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2021-07-00",
-    "title": "S<SUP>5</SUP>: The Destruction of a Bright Dwarf Galaxy as Revealed by the Chemistry of the Indus Stellar Stream",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2021ApJ...915..103H",
-    "volume": "915",
-    "year": "2021"
-  },
-  {
     "arxiv": "2008.05372",
     "authors": [
       "Clark, Jake T.",
@@ -873,6 +841,38 @@
     "title": "The GALAH Survey: using galactic archaeology to refine our knowledge of TESS target stars",
     "url": "https://ui.adsabs.harvard.edu/#abs/2021MNRAS.504.4968C",
     "volume": "504",
+    "year": "2021"
+  },
+  {
+    "arxiv": "2104.13883",
+    "authors": [
+      "Hansen, Terese T.",
+      "Ji, Alexander P.",
+      "Da Costa, Gary S.",
+      "Li, Ting S.",
+      "Casey, Andrew R.",
+      "Pace, Andrew B.",
+      "Cullinane, Lara R.",
+      "Erkal, Denis",
+      "Koposov, Sergey E.",
+      "Kuehn, Kyler",
+      "Lewis, Geraint F.",
+      "Mackey, Dougal",
+      "Simpson, Jeffrey D.",
+      "Shipp, Nora",
+      "Zucker, Daniel B.",
+      "Bland-Hawthorn, Joss",
+      "S5 Collaboration"
+    ],
+    "citations": 7,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/abfc54",
+    "page": 103,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2021-07-00",
+    "title": "S<SUP>5</SUP>: The Destruction of a Bright Dwarf Galaxy as Revealed by the Chemistry of the Indus Stellar Stream",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2021ApJ...915..103H",
+    "volume": "915",
     "year": "2021"
   },
   {
@@ -956,7 +956,7 @@
       "Zucker, D. B.",
       "Zwitter, T."
     ],
-    "citations": 56,
+    "citations": 57,
     "doctype": "article",
     "doi": "10.1093/mnras/stab471",
     "page": 3279,
@@ -1255,7 +1255,7 @@
       "Horner, J.",
       "GALAH Collaboration"
     ],
-    "citations": 47,
+    "citations": 46,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202038650",
     "page": null,
@@ -1650,7 +1650,7 @@
       "Simpson, J. D.",
       "Wan, Z."
     ],
-    "citations": 42,
+    "citations": 41,
     "doctype": "article",
     "doi": "10.1093/mnrasl/slz156",
     "page": null,
@@ -2174,7 +2174,7 @@
       "Wyse, R. F. G.",
       "GALAH Collaboration"
     ],
-    "citations": 94,
+    "citations": 95,
     "doctype": "article",
     "doi": "10.1051/0004-6361/201833218",
     "page": null,
@@ -3342,7 +3342,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 542,
+    "citations": 544,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
