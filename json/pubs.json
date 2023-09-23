@@ -502,7 +502,7 @@
       "Wyse, Rosemary F. G.",
       "Galah Collaboration"
     ],
-    "citations": 15,
+    "citations": 14,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2012",
     "page": 43,
@@ -1567,24 +1567,6 @@
     "title": "Empirical Relationship between Calcium Triplet Equivalent Widths and [Fe/H] Using Gaia Photometry",
     "url": "https://ui.adsabs.harvard.edu/#abs/2020RNAAS...4...70S",
     "volume": "4",
-    "year": "2020"
-  },
-  {
-    "arxiv": "1907.02527",
-    "authors": [
-      "Borsato, Nicholas W.",
-      "Martell, Sarah L.",
-      "Simpson, Jeffrey D."
-    ],
-    "citations": 26,
-    "doctype": "article",
-    "doi": "10.1093/mnras/stz3479",
-    "page": 1370,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2020-02-00",
-    "title": "Identifying stellar streams in Gaia DR2 with data mining techniques",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2020MNRAS.492.1370B",
-    "volume": "492",
     "year": "2020"
   },
   {
