@@ -1570,6 +1570,24 @@
     "year": "2020"
   },
   {
+    "arxiv": "1907.02527",
+    "authors": [
+      "Borsato, Nicholas W.",
+      "Martell, Sarah L.",
+      "Simpson, Jeffrey D."
+    ],
+    "citations": 27,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stz3479",
+    "page": 1370,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2020-02-00",
+    "title": "Identifying stellar streams in Gaia DR2 with data mining techniques",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2020MNRAS.492.1370B",
+    "volume": "492",
+    "year": "2020"
+  },
+  {
     "arxiv": "1907.11725",
     "authors": [
       "Koposov, Sergey E.",
@@ -2156,7 +2174,7 @@
       "Wyse, R. F. G.",
       "GALAH Collaboration"
     ],
-    "citations": 95,
+    "citations": 96,
     "doctype": "article",
     "doi": "10.1051/0004-6361/201833218",
     "page": null,
