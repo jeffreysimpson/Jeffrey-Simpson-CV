@@ -461,7 +461,7 @@
       "Zucker, Daniel B.",
       "Zwitter, Toma{\\v{z}}"
     ],
-    "citations": 51,
+    "citations": 52,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2304",
     "page": 2684,
@@ -564,7 +564,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 297,
+    "citations": 298,
     "doctype": "article",
     "doi": "10.1093/mnras/stab1242",
     "page": 150,
@@ -617,7 +617,7 @@
       "Wright, Duncan",
       "Wyse, Rosemary F. G."
     ],
-    "citations": 44,
+    "citations": 45,
     "doctype": "article",
     "doi": "10.1093/mnras/stab1086",
     "page": 1761,
@@ -753,7 +753,7 @@
       "Montet, Benjamin",
       "Wittenmyer, Rob"
     ],
-    "citations": 47,
+    "citations": 48,
     "doctype": "article",
     "doi": "10.1093/mnras/stab1356",
     "page": 5340,
@@ -794,6 +794,38 @@
     "title": "The GALAH survey and symbiotic stars - I. Discovery and follow-up of 33 candidate accreting-only systems",
     "url": "https://ui.adsabs.harvard.edu/#abs/2021MNRAS.505.6121M",
     "volume": "505",
+    "year": "2021"
+  },
+  {
+    "arxiv": "2104.13883",
+    "authors": [
+      "Hansen, Terese T.",
+      "Ji, Alexander P.",
+      "Da Costa, Gary S.",
+      "Li, Ting S.",
+      "Casey, Andrew R.",
+      "Pace, Andrew B.",
+      "Cullinane, Lara R.",
+      "Erkal, Denis",
+      "Koposov, Sergey E.",
+      "Kuehn, Kyler",
+      "Lewis, Geraint F.",
+      "Mackey, Dougal",
+      "Simpson, Jeffrey D.",
+      "Shipp, Nora",
+      "Zucker, Daniel B.",
+      "Bland-Hawthorn, Joss",
+      "S5 Collaboration"
+    ],
+    "citations": 7,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/abfc54",
+    "page": 103,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2021-07-00",
+    "title": "S<SUP>5</SUP>: The Destruction of a Bright Dwarf Galaxy as Revealed by the Chemistry of the Indus Stellar Stream",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2021ApJ...915..103H",
+    "volume": "915",
     "year": "2021"
   },
   {
@@ -841,38 +873,6 @@
     "title": "The GALAH Survey: using galactic archaeology to refine our knowledge of TESS target stars",
     "url": "https://ui.adsabs.harvard.edu/#abs/2021MNRAS.504.4968C",
     "volume": "504",
-    "year": "2021"
-  },
-  {
-    "arxiv": "2104.13883",
-    "authors": [
-      "Hansen, Terese T.",
-      "Ji, Alexander P.",
-      "Da Costa, Gary S.",
-      "Li, Ting S.",
-      "Casey, Andrew R.",
-      "Pace, Andrew B.",
-      "Cullinane, Lara R.",
-      "Erkal, Denis",
-      "Koposov, Sergey E.",
-      "Kuehn, Kyler",
-      "Lewis, Geraint F.",
-      "Mackey, Dougal",
-      "Simpson, Jeffrey D.",
-      "Shipp, Nora",
-      "Zucker, Daniel B.",
-      "Bland-Hawthorn, Joss",
-      "S5 Collaboration"
-    ],
-    "citations": 7,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/abfc54",
-    "page": 103,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2021-07-00",
-    "title": "S<SUP>5</SUP>: The Destruction of a Bright Dwarf Galaxy as Revealed by the Chemistry of the Indus Stellar Stream",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2021ApJ...915..103H",
-    "volume": "915",
     "year": "2021"
   },
   {
@@ -956,7 +956,7 @@
       "Zucker, D. B.",
       "Zwitter, T."
     ],
-    "citations": 59,
+    "citations": 60,
     "doctype": "article",
     "doi": "10.1093/mnras/stab471",
     "page": 3279,
@@ -1650,7 +1650,7 @@
       "Simpson, J. D.",
       "Wan, Z."
     ],
-    "citations": 41,
+    "citations": 42,
     "doctype": "article",
     "doi": "10.1093/mnrasl/slz156",
     "page": null,
@@ -1919,7 +1919,7 @@
       "Zucker, Daniel B.",
       "Zwitter, Toma{\\v{z}}"
     ],
-    "citations": 63,
+    "citations": 64,
     "doctype": "article",
     "doi": "10.1093/mnras/stz2462",
     "page": 4962,
@@ -2089,7 +2089,7 @@
       "Ting, Yuan-Sen",
       "Wyse, Rosemary F. G."
     ],
-    "citations": 155,
+    "citations": 159,
     "doctype": "article",
     "doi": "10.1093/mnras/stz217",
     "page": 1167,
@@ -2349,7 +2349,7 @@
       "Ting, Yuan-Sen",
       "Galah Collaboration"
     ],
-    "citations": 40,
+    "citations": 41,
     "doctype": "article",
     "doi": "10.1093/mnras/sty2414",
     "page": 2666,
@@ -2536,7 +2536,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 273,
+    "citations": 274,
     "doctype": "article",
     "doi": "10.1093/mnras/sty1281",
     "page": 4513,
@@ -3342,7 +3342,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 552,
+    "citations": 555,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
