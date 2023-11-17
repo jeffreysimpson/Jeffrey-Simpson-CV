@@ -461,7 +461,7 @@
       "Zucker, Daniel B.",
       "Zwitter, Toma{\\v{z}}"
     ],
-    "citations": 53,
+    "citations": 55,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2304",
     "page": 2684,
@@ -564,7 +564,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 306,
+    "citations": 305,
     "doctype": "article",
     "doi": "10.1093/mnras/stab1242",
     "page": 150,
@@ -1864,6 +1864,38 @@
     "year": "2019"
   },
   {
+    "arxiv": "1907.09488",
+    "authors": [
+      "Shipp, N.",
+      "Li, T. S.",
+      "Pace, A. B.",
+      "Erkal, D.",
+      "Drlica-Wagner, A.",
+      "Yanny, B.",
+      "Belokurov, V.",
+      "Wester, W.",
+      "Koposov, S. E.",
+      "Kuehn, K.",
+      "Lewis, G. F.",
+      "Simpson, J. D.",
+      "Wan, Z.",
+      "Zucker, D. B.",
+      "Martell, S. L.",
+      "Wang, M. Y.",
+      "S5 Collaboration"
+    ],
+    "citations": 51,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ab44bf",
+    "page": 3,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2019-11-00",
+    "title": "Proper Motions of Stellar Streams Discovered in the Dark Energy Survey",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2019ApJ...885....3S",
+    "volume": "885",
+    "year": "2019"
+  },
+  {
     "arxiv": "1902.10113",
     "authors": [
       "Khanna, Shourya",
@@ -1896,38 +1928,6 @@
     "title": "The GALAH survey and Gaia DR2: Linking ridges, arches, and vertical waves in the kinematics of the Milky Way",
     "url": "https://ui.adsabs.harvard.edu/#abs/2019MNRAS.489.4962K",
     "volume": "489",
-    "year": "2019"
-  },
-  {
-    "arxiv": "1907.09488",
-    "authors": [
-      "Shipp, N.",
-      "Li, T. S.",
-      "Pace, A. B.",
-      "Erkal, D.",
-      "Drlica-Wagner, A.",
-      "Yanny, B.",
-      "Belokurov, V.",
-      "Wester, W.",
-      "Koposov, S. E.",
-      "Kuehn, K.",
-      "Lewis, G. F.",
-      "Simpson, J. D.",
-      "Wan, Z.",
-      "Zucker, D. B.",
-      "Martell, S. L.",
-      "Wang, M. Y.",
-      "S5 Collaboration"
-    ],
-    "citations": 51,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/ab44bf",
-    "page": 3,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2019-11-00",
-    "title": "Proper Motions of Stellar Streams Discovered in the Dark Energy Survey",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2019ApJ...885....3S",
-    "volume": "885",
     "year": "2019"
   },
   {
@@ -2089,7 +2089,7 @@
       "Ting, Yuan-Sen",
       "Wyse, Rosemary F. G."
     ],
-    "citations": 157,
+    "citations": 158,
     "doctype": "article",
     "doi": "10.1093/mnras/stz217",
     "page": 1167,
@@ -2174,7 +2174,7 @@
       "Wyse, R. F. G.",
       "GALAH Collaboration"
     ],
-    "citations": 98,
+    "citations": 99,
     "doctype": "article",
     "doi": "10.1051/0004-6361/201833218",
     "page": null,
@@ -2536,7 +2536,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 277,
+    "citations": 276,
     "doctype": "article",
     "doi": "10.1093/mnras/sty1281",
     "page": 4513,
