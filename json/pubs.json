@@ -389,7 +389,7 @@
       "Bland-Hawthorn, Joss",
       "S5 Collaboration"
     ],
-    "citations": 53,
+    "citations": 54,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac1869",
     "page": 32,
@@ -564,7 +564,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 339,
+    "citations": 340,
     "doctype": "article",
     "doi": "10.1093/mnras/stab1242",
     "page": 150,
@@ -1255,7 +1255,7 @@
       "Horner, J.",
       "GALAH Collaboration"
     ],
-    "citations": 60,
+    "citations": 61,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202038650",
     "page": null,
@@ -1997,14 +1997,14 @@
       "Spina, L."
     ],
     "citations": 0,
-    "doctype": "catalog",
+    "doctype": "dataset",
     "doi": "10.26093/cds/vizier.36310166",
     "page": null,
     "pub": "VizieR Online Data Catalog",
     "pubdate": "2019-10-00",
     "title": "VizieR Online Data Catalog: Members of 5 cluster in Ori OB1a association (Kos+, 2019)",
     "url": "https://ui.adsabs.harvard.edu/#abs/2019yCat..36310166K",
-    "volume": null,
+    "volume": "363",
     "year": "2019"
   },
   {
@@ -2125,14 +2125,14 @@
       "GALAH Collaboration"
     ],
     "citations": 0,
-    "doctype": "catalog",
+    "doctype": "dataset",
     "doi": null,
     "page": null,
     "pub": "VizieR Online Data Catalog",
     "pubdate": "2019-06-00",
     "title": "VizieR Online Data Catalog: GALAH unresolved triple Sun-like star (Cotar+, 2019)",
     "url": "https://ui.adsabs.harvard.edu/#abs/2019yCat..74872474C",
-    "volume": null,
+    "volume": "748",
     "year": "2019"
   },
   {
@@ -2267,14 +2267,14 @@
       "Galah Collaboration"
     ],
     "citations": 0,
-    "doctype": "catalog",
+    "doctype": "dataset",
     "doi": "10.26093/cds/vizier.36240019",
     "page": null,
     "pub": "VizieR Online Data Catalog",
     "pubdate": "2019-02-00",
     "title": "VizieR Online Data Catalog: GALAH survey, chemodynamical analyse with TGAS (Buder+, 2019)",
     "url": "https://ui.adsabs.harvard.edu/#abs/2019yCat..36240019B",
-    "volume": null,
+    "volume": "362",
     "year": "2019"
   },
   {
@@ -2536,7 +2536,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 283,
+    "citations": 284,
     "doctype": "article",
     "doi": "10.1093/mnras/sty1281",
     "page": 4513,
@@ -2931,14 +2931,14 @@
       "Ting, Y. -S."
     ],
     "citations": 0,
-    "doctype": "catalog",
+    "doctype": "dataset",
     "doi": "10.26093/cds/vizier.22280024",
     "page": null,
     "pub": "VizieR Online Data Catalog",
     "pubdate": "2017-04-00",
     "title": "VizieR Online Data Catalog: GALAH semi-automated classification scheme (Traven+, 2017)",
     "url": "https://ui.adsabs.harvard.edu/#abs/2017yCat..22280024T",
-    "volume": null,
+    "volume": "222",
     "year": "2017"
   },
   {
@@ -3152,14 +3152,14 @@
       "Wittenmyer, R."
     ],
     "citations": 0,
-    "doctype": "catalog",
+    "doctype": "dataset",
     "doi": null,
     "page": null,
     "pub": "VizieR Online Data Catalog",
     "pubdate": "2016-09-00",
     "title": "VizieR Online Data Catalog: GALAH observational overview (Martell+, 2017)",
     "url": "https://ui.adsabs.harvard.edu/#abs/2016yCat..74653203M",
-    "volume": null,
+    "volume": "746",
     "year": "2016"
   },
   {
@@ -3342,7 +3342,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 583,
+    "citations": 585,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
@@ -3426,14 +3426,14 @@
       "Cottrell, P. L."
     ],
     "citations": 0,
-    "doctype": "catalog",
+    "doctype": "dataset",
     "doi": null,
     "page": null,
     "pub": "VizieR Online Data Catalog",
     "pubdate": "2014-07-00",
     "title": "VizieR Online Data Catalog: Abundances of 848 giants of {\\ensuremath{\\omega}} Cen (Simpson+, 2013)",
     "url": "https://ui.adsabs.harvard.edu/#abs/2014yCat..74331892S",
-    "volume": null,
+    "volume": "743",
     "year": "2014"
   },
   {
@@ -3495,14 +3495,14 @@
       "Worley, C. C."
     ],
     "citations": 0,
-    "doctype": "catalog",
+    "doctype": "dataset",
     "doi": null,
     "page": null,
     "pub": "VizieR Online Data Catalog",
     "pubdate": "2012-09-00",
     "title": "VizieR Online Data Catalog: Stellar parameters of giants in {\\ensuremath{\\omega}} Cen (Simpson+, 2012)",
     "url": "https://ui.adsabs.harvard.edu/#abs/2012yCat..74271153S",
-    "volume": null,
+    "volume": "742",
     "year": "2012"
   },
   {
