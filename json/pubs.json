@@ -716,14 +716,14 @@
       "GALAH Collaboration"
     ],
     "citations": 0,
-    "doctype": "catalog",
+    "doctype": "dataset",
     "doi": null,
     "page": null,
     "pub": "VizieR Online Data Catalog",
     "pubdate": "2021-09-00",
     "title": "VizieR Online Data Catalog: The GALAH+ Survey DR3 (Buder+, 2021)",
     "url": "https://ui.adsabs.harvard.edu/#abs/2021yCat..75060150B",
-    "volume": null,
+    "volume": "750",
     "year": "2021"
   },
   {
@@ -911,14 +911,14 @@
       "Zwitter, T."
     ],
     "citations": 0,
-    "doctype": "catalog",
+    "doctype": "dataset",
     "doi": null,
     "page": null,
     "pub": "VizieR Online Data Catalog",
     "pubdate": "2021-06-00",
     "title": "VizieR Online Data Catalog: GALAH survey. Galactic disc with open clusters (Spina+, 2021)",
     "url": "https://ui.adsabs.harvard.edu/#abs/2021yCat..75033279S",
-    "volume": null,
+    "volume": "750",
     "year": "2021"
   },
   {
@@ -1027,14 +1027,14 @@
       "S5 Collaboration"
     ],
     "citations": 0,
-    "doctype": "catalog",
+    "doctype": "dataset",
     "doi": "10.26093/cds/vizier.18850003",
     "page": null,
     "pub": "VizieR Online Data Catalog",
     "pubdate": "2021-05-00",
     "title": "VizieR Online Data Catalog: Membership in 12 stellar streams from DES (Shipp+, 2019)",
     "url": "https://ui.adsabs.harvard.edu/#abs/2021yCat..18850003S",
-    "volume": null,
+    "volume": "188",
     "year": "2021"
   },
   {
@@ -1071,14 +1071,14 @@
       "Wyse, R. F. G."
     ],
     "citations": 0,
-    "doctype": "catalog",
+    "doctype": "dataset",
     "doi": null,
     "page": null,
     "pub": "VizieR Online Data Catalog",
     "pubdate": "2021-05-00",
     "title": "VizieR Online Data Catalog: Thick disc probability of GALAH stars (Duong+, 2018)",
     "url": "https://ui.adsabs.harvard.edu/#abs/2021yCat..74765216D",
-    "volume": null,
+    "volume": "747",
     "year": "2021"
   },
   {
@@ -1141,14 +1141,14 @@
       "Zucker, D. B."
     ],
     "citations": 0,
-    "doctype": "catalog",
+    "doctype": "dataset",
     "doi": "10.26093/cds/vizier.51600181",
     "page": null,
     "pub": "VizieR Online Data Catalog",
     "pubdate": "2020-11-00",
     "title": "VizieR Online Data Catalog: Chemical abundances in red giants with Magellan (Ji+, 2020)",
     "url": "https://ui.adsabs.harvard.edu/#abs/2020yCat..51600181J",
-    "volume": null,
+    "volume": "516",
     "year": "2020"
   },
   {
@@ -1181,14 +1181,14 @@
       "Zucker, D. B."
     ],
     "citations": 0,
-    "doctype": "catalog",
+    "doctype": "dataset",
     "doi": null,
     "page": null,
     "pub": "VizieR Online Data Catalog",
     "pubdate": "2020-11-00",
     "title": "VizieR Online Data Catalog: TESS-HERMES Survey Data Release 1 catalog (Sharma+, 2018)",
     "url": "https://ui.adsabs.harvard.edu/#abs/2020yCat..74732004S",
-    "volume": null,
+    "volume": "747",
     "year": "2020"
   },
   {
@@ -1543,14 +1543,14 @@
       "Wittenmyer, R. A."
     ],
     "citations": 0,
-    "doctype": "catalog",
+    "doctype": "dataset",
     "doi": "10.26093/cds/vizier.36380145",
     "page": null,
     "pub": "VizieR Online Data Catalog",
     "pubdate": "2020-06-00",
     "title": "VizieR Online Data Catalog: GALAH survey. FGK binary stars (Traven+, 2020)",
     "url": "https://ui.adsabs.harvard.edu/#abs/2020yCat..36380145T",
-    "volume": null,
+    "volume": "363",
     "year": "2020"
   },
   {
