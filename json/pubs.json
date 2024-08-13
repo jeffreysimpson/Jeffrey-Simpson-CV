@@ -1,6 +1,6 @@
 [
   {
-    "arxiv": null,
+    "arxiv": "2011.13745",
     "authors": [
       "Hayden, Michael R.",
       "Sharma, Sanjib",
@@ -47,7 +47,7 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
+    "arxiv": "2011.02783",
     "authors": [
       "Nandakumar, Govind",
       "Hayden, Michael R.",
@@ -86,7 +86,7 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
+    "arxiv": "2203.10843",
     "authors": [
       "Hughes, Arvind C. N.",
       "Spitler, Lee R.",
@@ -125,7 +125,7 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
+    "arxiv": "2110.06950",
     "authors": [
       "Li, Ting S.",
       "Ji, Alexander P.",
@@ -161,7 +161,7 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
+    "arxiv": "2109.04059",
     "authors": [
       "Buder, Sven",
       "Lind, Karin",
@@ -206,7 +206,7 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
+    "arxiv": "2011.13818",
     "authors": [
       "Sharma, Sanjib",
       "Hayden, Michael R.",
@@ -249,7 +249,7 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
+    "arxiv": "2111.14883",
     "authors": [
       "Clark, Jake T.",
       "Wright, Duncan J.",
@@ -291,7 +291,7 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
+    "arxiv": "2107.13004",
     "authors": [
       "Shipp, Nora",
       "Erkal, Denis",
@@ -325,7 +325,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2012.12201",
     "authors": [
       "Zwitter, Toma{\\v{z}}",
       "Kos, Janez",
@@ -368,7 +368,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2106.12656",
     "authors": [
       "Ji, Alexander P.",
       "Koposov, Sergey E.",
@@ -401,7 +401,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2109.03948",
     "authors": [
       "Casey, Andrew R.",
       "Ji, Alexander P.",
@@ -432,7 +432,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2011.02517",
     "authors": [
       "Casagrande, Luca",
       "Lin, Jane",
@@ -473,7 +473,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2011.02659",
     "authors": [
       "Simpson, Jeffrey D.",
       "Martell, Sarah L.",
@@ -514,7 +514,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2011.02505",
     "authors": [
       "Buder, Sven",
       "Sharma, Sanjib",
@@ -576,7 +576,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2004.06556",
     "authors": [
       "Sharma, Sanjib",
       "Hayden, Michael R.",
@@ -629,7 +629,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2011.02485",
     "authors": [
       "Kos, Janez",
       "Bland-Hawthorn, Joss",
@@ -727,7 +727,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2006.02106",
     "authors": [
       "Martell, Sarah L.",
       "Simpson, Jeffrey D.",
@@ -765,7 +765,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2104.02686",
     "authors": [
       "Munari, U.",
       "Traven, G.",
@@ -797,7 +797,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2104.13883",
     "authors": [
       "Hansen, Terese T.",
       "Ji, Alexander P.",
@@ -829,7 +829,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2008.05372",
     "authors": [
       "Clark, Jake T.",
       "Clert{\\'e}, Mathieu",
@@ -922,7 +922,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2011.02533",
     "authors": [
       "Spina, L.",
       "Ting, Y. -S.",
@@ -968,7 +968,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2104.08684",
     "authors": [
       "Zucker, Daniel B.",
       "Simpson, Jeffrey D.",
@@ -1082,7 +1082,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2006.10763",
     "authors": [
       "Li, Ting S.",
       "Koposov, Sergey E.",
@@ -1192,91 +1192,7 @@
     "year": "2020"
   },
   {
-    "arxiv": "2011.02783",
-    "authors": [
-      "Nandakumar, Govind",
-      "Hayden, Michael R.",
-      "Sharma, Sanjib",
-      "Buder, Sven",
-      "Asplund, Martin",
-      "Bland-Hawthorn, Joss",
-      "De Silva, Gayandhi M.",
-      "D'Orazi, Valentina",
-      "Freeman, Ken C.",
-      "Kos, Janez",
-      "Lewis, Geraint F.",
-      "Martell, Sarah L.",
-      "Schlesinger, Katharine J.",
-      "Lin, Jane",
-      "Simpson, Jeffrey D.",
-      "Zucker, Daniel B.",
-      "Zwitter, Tomaz",
-      "Nordlander, Thomas",
-      "Casagrande, Luca",
-      "Lind, Karin",
-      "Cotar, Klemen",
-      "Stello, Dennis",
-      "Wittenmyer, Robert A.",
-      "Tepper-Garcia, Thor"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2011.02783",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2020-11-00",
-    "title": "Combined APOGEE-GALAH stellar catalogues using the Cannon",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2020arXiv201102783N",
-    "volume": null,
-    "year": "2020"
-  },
-  {
-    "arxiv": "2011.13745",
-    "authors": [
-      "Hayden, Michael R.",
-      "Sharma, Sanjib",
-      "Bland-Hawthorn, Joss",
-      "Spina, Lorenzo",
-      "Buder, Sven",
-      "Asplund, Martin",
-      "Casey, Andrew R.",
-      "De Silva, Gayandhi M.",
-      "D'Orazi, Valentina",
-      "Freeman, Ken C.",
-      "Kos, Janez",
-      "Lewis, Geraint F.",
-      "Lin, Jane",
-      "Lind, Karin",
-      "Martell, Sarah L.",
-      "Schlesinger, Katharine J.",
-      "Simpson, Jeffrey D.",
-      "Zucker, Daniel B.",
-      "Zwitter, Tomaz",
-      "Chen, Boquan",
-      "Cotar, Klemen",
-      "Feuillet, Diane",
-      "Horner, Jonti",
-      "Joyce, Meridith",
-      "Nordlander, Thomas",
-      "Stello, Dennis",
-      "Tepper-Garcia, Thorsten",
-      "Ting, Yuan-sen",
-      "Wang, Purmortal",
-      "Wittenmyer, Rob"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2011.13745",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2020-11-00",
-    "title": "The GALAH Survey: Chemical Clocks",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2020arXiv201113745H",
-    "volume": null,
-    "year": "2020"
-  },
-  {
-    "arxiv": null,
+    "arxiv": "2008.07568",
     "authors": [
       "Ji, Alexander P.",
       "Li, Ting S.",
@@ -1310,7 +1226,7 @@
     "year": "2020"
   },
   {
-    "arxiv": null,
+    "arxiv": "2008.09582",
     "authors": [
       "Amarsi, A. M.",
       "Lind, K.",
@@ -1351,7 +1267,7 @@
     "year": "2020"
   },
   {
-    "arxiv": null,
+    "arxiv": "2006.05173",
     "authors": [
       "Gao, Xudong",
       "Lind, Karin",
@@ -1391,7 +1307,7 @@
     "year": "2020"
   },
   {
-    "arxiv": null,
+    "arxiv": "2006.08641",
     "authors": [
       "Arentsen, Anke",
       "Starkenburg, Else",
@@ -1428,7 +1344,7 @@
     "year": "2020"
   },
   {
-    "arxiv": null,
+    "arxiv": "2007.14577",
     "authors": [
       "Wan, Zhen",
       "Lewis, Geraint F.",
@@ -1464,7 +1380,7 @@
     "year": "2020"
   },
   {
-    "arxiv": null,
+    "arxiv": "2001.08227",
     "authors": [
       "Wheeler, Adam",
       "Ness, Melissa",
@@ -1492,7 +1408,7 @@
     "year": "2020"
   },
   {
-    "arxiv": null,
+    "arxiv": "2005.10959",
     "authors": [
       "Wittenmyer, Robert A.",
       "Clark, Jake T.",
@@ -1532,7 +1448,7 @@
     "year": "2020"
   },
   {
-    "arxiv": null,
+    "arxiv": "2004.07556",
     "authors": [
       "Kawka, Adela",
       "Simpson, Jeffrey D.",
@@ -1554,7 +1470,7 @@
     "year": "2020"
   },
   {
-    "arxiv": null,
+    "arxiv": "2005.00014",
     "authors": [
       "Traven, G.",
       "Feltzing, S.",
@@ -1654,7 +1570,7 @@
     "year": "2020"
   },
   {
-    "arxiv": null,
+    "arxiv": "1907.02527",
     "authors": [
       "Borsato, Nicholas W.",
       "Martell, Sarah L.",
@@ -1672,7 +1588,7 @@
     "year": "2020"
   },
   {
-    "arxiv": null,
+    "arxiv": "1907.11725",
     "authors": [
       "Koposov, Sergey E.",
       "Boubert, Douglas",
@@ -1708,7 +1624,7 @@
     "year": "2020"
   },
   {
-    "arxiv": null,
+    "arxiv": "1910.06337",
     "authors": [
       "Arentsen, A.",
       "Starkenburg, E.",
@@ -1746,7 +1662,7 @@
     "year": "2020"
   },
   {
-    "arxiv": null,
+    "arxiv": "1911.01548",
     "authors": [
       "Simpson, Jeffrey D.",
       "Martell, Sarah L.",
@@ -1781,7 +1697,7 @@
     "year": "2020"
   },
   {
-    "arxiv": null,
+    "arxiv": "1911.05221",
     "authors": [
       "Lin, Jane",
       "Asplund, Martin",
@@ -1821,7 +1737,7 @@
     "year": "2020"
   },
   {
-    "arxiv": null,
+    "arxiv": "1907.09481",
     "authors": [
       "Li, T. S.",
       "Koposov, S. E.",
@@ -1869,7 +1785,7 @@
     "year": "2019"
   },
   {
-    "arxiv": null,
+    "arxiv": "1904.12444",
     "authors": [
       "Sharma, Sanjib",
       "Stello, Dennis",
@@ -1921,7 +1837,7 @@
     "year": "2019"
   },
   {
-    "arxiv": null,
+    "arxiv": "1910.09811",
     "authors": [
       "Casey, Andrew R.",
       "Lattanzio, John C.",
@@ -1948,7 +1864,7 @@
     "year": "2019"
   },
   {
-    "arxiv": null,
+    "arxiv": "1907.09488",
     "authors": [
       "Shipp, N.",
       "Li, T. S.",
@@ -1980,7 +1896,7 @@
     "year": "2019"
   },
   {
-    "arxiv": null,
+    "arxiv": "1902.10113",
     "authors": [
       "Khanna, Shourya",
       "Sharma, Sanjib",
@@ -2015,7 +1931,7 @@
     "year": "2019"
   },
   {
-    "arxiv": null,
+    "arxiv": "1909.06314",
     "authors": [
       "Simpson, Jeffrey D.",
       "Martell, Sarah L."
@@ -2032,7 +1948,7 @@
     "year": "2019"
   },
   {
-    "arxiv": null,
+    "arxiv": "1811.11762",
     "authors": [
       "Kos, Janez",
       "Bland-Hawthorn, Joss",
@@ -2092,7 +2008,7 @@
     "year": "2019"
   },
   {
-    "arxiv": null,
+    "arxiv": "1902.00447",
     "authors": [
       "Simpson, Jeffrey D."
     ],
@@ -2108,7 +2024,7 @@
     "year": "2019"
   },
   {
-    "arxiv": null,
+    "arxiv": "1904.04841",
     "authors": [
       "{\\v{C}}otar, Klemen",
       "Zwitter, Toma{\\v{z}}",
@@ -2143,7 +2059,7 @@
     "year": "2019"
   },
   {
-    "arxiv": null,
+    "arxiv": "1809.02658",
     "authors": [
       "Bland-Hawthorn, Joss",
       "Sharma, Sanjib",
@@ -2220,7 +2136,7 @@
     "year": "2019"
   },
   {
-    "arxiv": null,
+    "arxiv": "1804.05869",
     "authors": [
       "Buder, S.",
       "Lind, K.",
@@ -2270,7 +2186,7 @@
     "year": "2019"
   },
   {
-    "arxiv": null,
+    "arxiv": "1804.05894",
     "authors": [
       "Simpson, Jeffrey D.",
       "Martell, Sarah L.",
@@ -2362,7 +2278,7 @@
     "year": "2019"
   },
   {
-    "arxiv": null,
+    "arxiv": "1804.07217",
     "authors": [
       "Khanna, Shourya",
       "Sharma, Sanjib",
@@ -2400,7 +2316,7 @@
     "year": "2019"
   },
   {
-    "arxiv": null,
+    "arxiv": "1804.06394",
     "authors": [
       "Gao, Xudong",
       "Lind, Karin",
@@ -2445,7 +2361,7 @@
     "year": "2018"
   },
   {
-    "arxiv": null,
+    "arxiv": "1804.06344",
     "authors": [
       "Zwitter, Toma{\\v{z}}",
       "Kos, Janez",
@@ -2497,7 +2413,7 @@
     "year": "2018"
   },
   {
-    "arxiv": null,
+    "arxiv": "1807.00822",
     "authors": [
       "Kos, Janez",
       "de Silva, Gayandhi",
@@ -2536,7 +2452,7 @@
     "year": "2018"
   },
   {
-    "arxiv": null,
+    "arxiv": "1804.05851",
     "authors": [
       "Kos, Janez",
       "Bland-Hawthorn, Joss",
@@ -2573,7 +2489,7 @@
     "year": "2018"
   },
   {
-    "arxiv": null,
+    "arxiv": "1804.06041",
     "authors": [
       "Buder, Sven",
       "Asplund, Martin",
@@ -2632,7 +2548,7 @@
     "year": "2018"
   },
   {
-    "arxiv": null,
+    "arxiv": "1804.02606",
     "authors": [
       "Simpson, Jeffrey D."
     ],
@@ -2648,7 +2564,7 @@
     "year": "2018"
   },
   {
-    "arxiv": null,
+    "arxiv": "1802.02924",
     "authors": [
       "Quillen, Alice C.",
       "De Silva, Gayandhi",
@@ -2721,7 +2637,7 @@
     "year": "2018"
   },
   {
-    "arxiv": null,
+    "arxiv": "1801.01514",
     "authors": [
       "Duong, L.",
       "Freeman, K. C.",
@@ -2807,7 +2723,7 @@
     "year": "2018"
   },
   {
-    "arxiv": null,
+    "arxiv": "1709.00794",
     "authors": [
       "Kos, Janez",
       "Bland-Hawthorn, Joss",
@@ -2900,7 +2816,7 @@
     "year": "2018"
   },
   {
-    "arxiv": null,
+    "arxiv": "1707.05753",
     "authors": [
       "Sharma, Sanjib",
       "Stello, Dennis",
