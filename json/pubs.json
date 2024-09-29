@@ -564,7 +564,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 444,
+    "citations": 447,
     "doctype": "article",
     "doi": "10.1093/mnras/stab1242",
     "page": 150,
@@ -753,7 +753,7 @@
       "Montet, Benjamin",
       "Wittenmyer, Rob"
     ],
-    "citations": 57,
+    "citations": 58,
     "doctype": "article",
     "doi": "10.1093/mnras/stab1356",
     "page": 5340,
@@ -1919,7 +1919,7 @@
       "Zucker, Daniel B.",
       "Zwitter, Toma{\\v{z}}"
     ],
-    "citations": 72,
+    "citations": 73,
     "doctype": "article",
     "doi": "10.1093/mnras/stz2462",
     "page": 4962,
@@ -2005,6 +2005,22 @@
     "title": "VizieR Online Data Catalog: Members of 5 cluster in Ori OB1a association (Kos+, 2019)",
     "url": "https://ui.adsabs.harvard.edu/#abs/2019yCat..36310166K",
     "volume": "363",
+    "year": "2019"
+  },
+  {
+    "arxiv": "1902.00447",
+    "authors": [
+      "Simpson, Jeffrey D."
+    ],
+    "citations": 10,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stz1699",
+    "page": 253,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2019-09-00",
+    "title": "The retrograde orbit of the globular cluster FSR1758 revealed with Gaia DR2",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2019MNRAS.488..253S",
+    "volume": "488",
     "year": "2019"
   },
   {
@@ -2174,7 +2190,7 @@
       "Wyse, R. F. G.",
       "GALAH Collaboration"
     ],
-    "citations": 113,
+    "citations": 114,
     "doctype": "article",
     "doi": "10.1051/0004-6361/201833218",
     "page": null,
@@ -2349,7 +2365,7 @@
       "Ting, Yuan-Sen",
       "Galah Collaboration"
     ],
-    "citations": 44,
+    "citations": 45,
     "doctype": "article",
     "doi": "10.1093/mnras/sty2414",
     "page": 2666,
@@ -2536,7 +2552,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 303,
+    "citations": 304,
     "doctype": "article",
     "doi": "10.1093/mnras/sty1281",
     "page": 4513,
@@ -3342,7 +3358,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 642,
+    "citations": 643,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
