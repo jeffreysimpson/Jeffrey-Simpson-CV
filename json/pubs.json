@@ -712,8 +712,7 @@
       "Vogrincic, R.",
       "Wittenmyer, R. A.",
       "Wyse, R. F. G.",
-      "Zerjal, M.",
-      "GALAH Collaboration"
+      "Zerjal M. (The Galah Collaboration)"
     ],
     "citations": 0,
     "doctype": "dataset",
@@ -2005,22 +2004,6 @@
     "title": "VizieR Online Data Catalog: Members of 5 cluster in Ori OB1a association (Kos+, 2019)",
     "url": "https://ui.adsabs.harvard.edu/#abs/2019yCat..36310166K",
     "volume": "363",
-    "year": "2019"
-  },
-  {
-    "arxiv": "1902.00447",
-    "authors": [
-      "Simpson, Jeffrey D."
-    ],
-    "citations": 10,
-    "doctype": "article",
-    "doi": "10.1093/mnras/stz1699",
-    "page": 253,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2019-09-00",
-    "title": "The retrograde orbit of the globular cluster FSR1758 revealed with Gaia DR2",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2019MNRAS.488..253S",
-    "volume": "488",
     "year": "2019"
   },
   {
