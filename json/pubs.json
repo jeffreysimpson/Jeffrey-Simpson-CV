@@ -149,7 +149,7 @@
       "De Silva, Gayandhi M.",
       "Simon, Joshua D."
     ],
-    "citations": 82,
+    "citations": 80,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac46d3",
     "page": 30,
@@ -313,7 +313,7 @@
       "Lilleengen, Sophia",
       "Lilleengen, Sophia"
     ],
-    "citations": 93,
+    "citations": 92,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac2e93",
     "page": 149,
@@ -564,7 +564,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 489,
+    "citations": 492,
     "doctype": "article",
     "doi": "10.1093/mnras/stab1242",
     "page": 150,
@@ -653,7 +653,7 @@
       "Ting, Yuan-Sen",
       "Traven, Gregor"
     ],
-    "citations": 19,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.1093/mnras/stab1767",
     "page": 4232,
@@ -784,7 +784,7 @@
       "Wittenmyer, R. A.",
       "Zucker, D. B."
     ],
-    "citations": 21,
+    "citations": 22,
     "doctype": "article",
     "doi": "10.1093/mnras/stab1620",
     "page": 6121,
@@ -955,7 +955,7 @@
       "Zucker, D. B.",
       "Zwitter, T."
     ],
-    "citations": 90,
+    "citations": 91,
     "doctype": "article",
     "doi": "10.1093/mnras/stab471",
     "page": 3279,
@@ -1499,7 +1499,7 @@
       "Munari, U.",
       "Wittenmyer, R. A."
     ],
-    "citations": 53,
+    "citations": 56,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202037484",
     "page": null,
@@ -1649,7 +1649,7 @@
       "Simpson, J. D.",
       "Wan, Z."
     ],
-    "citations": 69,
+    "citations": 70,
     "doctype": "article",
     "doi": "10.1093/mnrasl/slz156",
     "page": null,
@@ -1883,7 +1883,7 @@
       "Wang, M. Y.",
       "S5 Collaboration"
     ],
-    "citations": 65,
+    "citations": 64,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ab44bf",
     "page": 3,
@@ -2173,7 +2173,7 @@
       "Wyse, R. F. G.",
       "GALAH Collaboration"
     ],
-    "citations": 117,
+    "citations": 118,
     "doctype": "article",
     "doi": "10.1051/0004-6361/201833218",
     "page": null,
@@ -2360,45 +2360,6 @@
     "year": "2018"
   },
   {
-    "arxiv": "1807.00822",
-    "authors": [
-      "Kos, Janez",
-      "de Silva, Gayandhi",
-      "Buder, Sven",
-      "Bland-Hawthorn, Joss",
-      "Sharma, Sanjib",
-      "Asplund, Martin",
-      "D'Orazi, Valentina",
-      "Duong, Ly",
-      "Freeman, Ken",
-      "Lewis, Geraint F.",
-      "Lin, Jane",
-      "Lind, Karin",
-      "Martell, Sarah L.",
-      "Schlesinger, Katharine J.",
-      "Simpson, Jeffrey D.",
-      "Zucker, Daniel B.",
-      "Zwitter, Toma{\\v{z}}",
-      "Bedding, Timothy R.",
-      "{\\v{C}}otar, Klemen",
-      "Horner, Jonathan",
-      "Nordlander, Thomas",
-      "Stello, Denis",
-      "Ting, Yuan-Sen",
-      "Traven, Gregor"
-    ],
-    "citations": 33,
-    "doctype": "article",
-    "doi": "10.1093/mnras/sty2171",
-    "page": 5242,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2018-11-00",
-    "title": "The GALAH survey and Gaia DR2: (non-)existence of five sparse high-latitude open clusters",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2018MNRAS.480.5242K",
-    "volume": "480",
-    "year": "2018"
-  },
-  {
     "arxiv": "1804.06344",
     "authors": [
       "Zwitter, Toma{\\v{z}}",
@@ -2448,6 +2409,45 @@
     "title": "The GALAH survey: accurate radial velocities and library of observed stellar template spectra",
     "url": "https://ui.adsabs.harvard.edu/#abs/2018MNRAS.481..645Z",
     "volume": "481",
+    "year": "2018"
+  },
+  {
+    "arxiv": "1807.00822",
+    "authors": [
+      "Kos, Janez",
+      "de Silva, Gayandhi",
+      "Buder, Sven",
+      "Bland-Hawthorn, Joss",
+      "Sharma, Sanjib",
+      "Asplund, Martin",
+      "D'Orazi, Valentina",
+      "Duong, Ly",
+      "Freeman, Ken",
+      "Lewis, Geraint F.",
+      "Lin, Jane",
+      "Lind, Karin",
+      "Martell, Sarah L.",
+      "Schlesinger, Katharine J.",
+      "Simpson, Jeffrey D.",
+      "Zucker, Daniel B.",
+      "Zwitter, Toma{\\v{z}}",
+      "Bedding, Timothy R.",
+      "{\\v{C}}otar, Klemen",
+      "Horner, Jonathan",
+      "Nordlander, Thomas",
+      "Stello, Denis",
+      "Ting, Yuan-Sen",
+      "Traven, Gregor"
+    ],
+    "citations": 33,
+    "doctype": "article",
+    "doi": "10.1093/mnras/sty2171",
+    "page": 5242,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2018-11-00",
+    "title": "The GALAH survey and Gaia DR2: (non-)existence of five sparse high-latitude open clusters",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2018MNRAS.480.5242K",
+    "volume": "480",
     "year": "2018"
   },
   {
@@ -2843,7 +2843,7 @@
       "Wittenmyer, Rob A.",
       "Zucker, Daniel B."
     ],
-    "citations": 117,
+    "citations": 119,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2582",
     "page": 2004,
@@ -3279,7 +3279,7 @@
       "Zucker, Daniel",
       "Zwitter, Tomaz"
     ],
-    "citations": 78,
+    "citations": 79,
     "doctype": "article",
     "doi": "10.1117/1.JATIS.1.3.035002",
     "page": 35002,
@@ -3341,7 +3341,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 684,
+    "citations": 685,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
