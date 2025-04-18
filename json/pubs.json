@@ -149,7 +149,7 @@
       "De Silva, Gayandhi M.",
       "Simon, Joshua D."
     ],
-    "citations": 87,
+    "citations": 86,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac46d3",
     "page": 30,
@@ -389,7 +389,7 @@
       "Bland-Hawthorn, Joss",
       "S5 Collaboration"
     ],
-    "citations": 80,
+    "citations": 81,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac1869",
     "page": 32,
@@ -502,7 +502,7 @@
       "Wyse, Rosemary F. G.",
       "Galah Collaboration"
     ],
-    "citations": 16,
+    "citations": 17,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2012",
     "page": 43,
@@ -617,7 +617,7 @@
       "Wright, Duncan",
       "Wyse, Rosemary F. G."
     ],
-    "citations": 68,
+    "citations": 69,
     "doctype": "article",
     "doi": "10.1093/mnras/stab1086",
     "page": 1761,
@@ -955,7 +955,7 @@
       "Zucker, D. B.",
       "Zwitter, T."
     ],
-    "citations": 92,
+    "citations": 93,
     "doctype": "article",
     "doi": "10.1093/mnras/stab471",
     "page": 3279,
@@ -1469,28 +1469,6 @@
     "year": "2020"
   },
   {
-    "arxiv": "2004.07556",
-    "authors": [
-      "Kawka, Adela",
-      "Simpson, Jeffrey D.",
-      "Vennes, St{\\'e}phane",
-      "Bessell, Michael S.",
-      "Da Costa, Gary S.",
-      "Marino, Anna F.",
-      "Murphy, Simon J."
-    ],
-    "citations": 9,
-    "doctype": "article",
-    "doi": "10.1093/mnrasl/slaa068",
-    "page": null,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2020-06-00",
-    "title": "The closest extremely low-mass white dwarf to the Sun",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2020MNRAS.495L.129K",
-    "volume": "495",
-    "year": "2020"
-  },
-  {
     "arxiv": "2005.00014",
     "authors": [
       "Traven, G.",
@@ -1706,7 +1684,7 @@
       "Cottrell, Peter L.",
       "Nordlander, Thomas"
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3105",
     "page": 3374,
@@ -1794,7 +1772,7 @@
       "Yanny, B.",
       "S5 Collaboration"
     ],
-    "citations": 105,
+    "citations": 106,
     "doctype": "article",
     "doi": "10.1093/mnras/stz2731",
     "page": 3508,
@@ -1905,7 +1883,7 @@
       "Wang, M. Y.",
       "S5 Collaboration"
     ],
-    "citations": 68,
+    "citations": 69,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ab44bf",
     "page": 3,
@@ -1940,7 +1918,7 @@
       "Zucker, Daniel B.",
       "Zwitter, Toma{\\v{z}}"
     ],
-    "citations": 80,
+    "citations": 81,
     "doctype": "article",
     "doi": "10.1093/mnras/stz2462",
     "page": 4962,
@@ -2249,48 +2227,6 @@
     "year": "2019"
   },
   {
-    "arxiv": "1804.05894",
-    "authors": [
-      "Simpson, Jeffrey D.",
-      "Martell, Sarah L.",
-      "Da Costa, Gary",
-      "Casey, Andrew R.",
-      "Freeman, Ken C.",
-      "Horner, Jonathan",
-      "Ting, Yuan-Sen",
-      "Nataf, David M.",
-      "Lewis, Geraint F.",
-      "Ness, Melissa K.",
-      "Zucker, Daniel B.",
-      "Cottrell, Peter L.",
-      "{\\v{C}}otar, Klemen",
-      "Asplund, Martin",
-      "Bland-Hawthorn, Joss",
-      "Buder, Sven",
-      "D'Orazi, Valentina",
-      "De Silva, Gayandhi M.",
-      "Duong, Ly",
-      "Kos, Janez",
-      "Lin, Jane",
-      "Lind, Karin",
-      "Schlesinger, Katharine J.",
-      "Sharma, Sanjib",
-      "Zwitter, Toma{\\v{z}}",
-      "Kafle, Prajwal R.",
-      "Nordlander, Thomas"
-    ],
-    "citations": 16,
-    "doctype": "article",
-    "doi": "10.1093/mnras/sty3042",
-    "page": 5302,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2019-02-00",
-    "title": "The GALAH survey: co-orbiting stars and chemical tagging",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2019MNRAS.482.5302S",
-    "volume": "482",
-    "year": "2019"
-  },
-  {
     "arxiv": null,
     "authors": [
       "Buder, S.",
@@ -2512,43 +2448,6 @@
     "title": "The GALAH survey: accurate radial velocities and library of observed stellar template spectra",
     "url": "https://ui.adsabs.harvard.edu/#abs/2018MNRAS.481..645Z",
     "volume": "481",
-    "year": "2018"
-  },
-  {
-    "arxiv": "1804.05851",
-    "authors": [
-      "Kos, Janez",
-      "Bland-Hawthorn, Joss",
-      "Betters, Christopher H.",
-      "Leon-Saval, Sergio",
-      "Asplund, Martin",
-      "Buder, Sven",
-      "Casey, Andrew R.",
-      "D'Orazi, Valentina",
-      "de Silva, Gayandhi",
-      "Freeman, Ken",
-      "Lewis, Geraint",
-      "Lin, Jane",
-      "Martell, Sarah L.",
-      "Schlesinger, Katharine",
-      "Sharma, Sanjib",
-      "Simpson, Jeffrey D.",
-      "Zucker, Daniel",
-      "Zwitter, Toma{\\v{z}}",
-      "Hayden, Michael",
-      "Horner, Jonathan",
-      "Nataf, David M.",
-      "Ting, Yuan-Sen"
-    ],
-    "citations": 13,
-    "doctype": "article",
-    "doi": "10.1093/mnras/sty2175",
-    "page": 5475,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2018-11-00",
-    "title": "Holistic spectroscopy: complete reconstruction of a wide-field, multiobject spectroscopic image using a photonic comb",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2018MNRAS.480.5475K",
-    "volume": "480",
     "year": "2018"
   },
   {
@@ -2973,30 +2872,6 @@
     "title": "ESO 452-SC11: the lowest mass globular cluster with a potential chemical inhomogeneity",
     "url": "https://ui.adsabs.harvard.edu/#abs/2017MNRAS.472.2856S",
     "volume": "472",
-    "year": "2017"
-  },
-  {
-    "arxiv": "1703.03823",
-    "authors": [
-      "Simpson, J. D.",
-      "De Silva, G. M.",
-      "Martell, S. L.",
-      "Zucker, D. B.",
-      "Ferguson, A. M. N.",
-      "Bernard, E. J.",
-      "Irwin, M.",
-      "Penarrubia, J.",
-      "Tolstoy, E."
-    ],
-    "citations": 14,
-    "doctype": "article",
-    "doi": "10.1093/mnras/stx1892",
-    "page": 4087,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2017-11-00",
-    "title": "Siriusly, a newly identified intermediate-age Milky Way stellar cluster: a spectroscopic study of Gaia 1",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2017MNRAS.471.4087S",
-    "volume": "471",
     "year": "2017"
   },
   {
@@ -3466,7 +3341,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 699,
+    "citations": 702,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
