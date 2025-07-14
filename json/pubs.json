@@ -564,7 +564,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 542,
+    "citations": 544,
     "doctype": "article",
     "doi": "10.1093/mnras/stab1242",
     "page": 150,
@@ -784,7 +784,7 @@
       "Wittenmyer, R. A.",
       "Zucker, D. B."
     ],
-    "citations": 26,
+    "citations": 27,
     "doctype": "article",
     "doi": "10.1093/mnras/stab1620",
     "page": 6121,
@@ -1105,7 +1105,7 @@
       "Sharma, Sanjib",
       "S5 Collaboration"
     ],
-    "citations": 65,
+    "citations": 66,
     "doctype": "article",
     "doi": "10.3847/1538-4357/abeb18",
     "page": 149,
@@ -1254,7 +1254,7 @@
       "Horner, J.",
       "GALAH Collaboration"
     ],
-    "citations": 91,
+    "citations": 92,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202038650",
     "page": null,
@@ -1772,7 +1772,7 @@
       "Yanny, B.",
       "S5 Collaboration"
     ],
-    "citations": 111,
+    "citations": 112,
     "doctype": "article",
     "doi": "10.1093/mnras/stz2731",
     "page": 3508,
@@ -2173,7 +2173,7 @@
       "Wyse, R. F. G.",
       "GALAH Collaboration"
     ],
-    "citations": 120,
+    "citations": 121,
     "doctype": "article",
     "doi": "10.1051/0004-6361/201833218",
     "page": null,
@@ -2535,7 +2535,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 329,
+    "citations": 330,
     "doctype": "article",
     "doi": "10.1093/mnras/sty1281",
     "page": 4513,
@@ -2899,6 +2899,30 @@
     "year": "2017"
   },
   {
+    "arxiv": "1703.03823",
+    "authors": [
+      "Simpson, J. D.",
+      "De Silva, G. M.",
+      "Martell, S. L.",
+      "Zucker, D. B.",
+      "Ferguson, A. M. N.",
+      "Bernard, E. J.",
+      "Irwin, M.",
+      "Penarrubia, J.",
+      "Tolstoy, E."
+    ],
+    "citations": 14,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stx1892",
+    "page": 4087,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2017-11-00",
+    "title": "Siriusly, a newly identified intermediate-age Milky Way stellar cluster: a spectroscopic study of Gaia 1",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2017MNRAS.471.4087S",
+    "volume": "471",
+    "year": "2017"
+  },
+  {
     "arxiv": null,
     "authors": [
       "Traven, G.",
@@ -2978,7 +3002,7 @@
       "Watson, F. G.",
       "Wittenmyer, R."
     ],
-    "citations": 183,
+    "citations": 184,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2835",
     "page": 3203,
@@ -3341,7 +3365,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 732,
+    "citations": 734,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
