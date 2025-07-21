@@ -1,5 +1,29 @@
 [
   {
+    "arxiv": null,
+    "authors": [
+      "Usman, Sam A.",
+      "Ji, Alexander P.",
+      "Rodriguez, Jandrie",
+      "Simpson, Jeffrey D.",
+      "Martell, Sarah L.",
+      "Li, Ting S.",
+      "Bonaca, Ana",
+      "Shah, Shivani",
+      "McKenzie, Madeleine"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.33232/001c.141756",
+    "page": 86,
+    "pub": "The Open Journal of Astrophysics",
+    "pubdate": "2025-07-00",
+    "title": "Chemical Abundances in the Metal-Poor Globular Cluster ESO 280-SC06: A Formerly Massive, Tidally Disrupted Globular Cluster",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2025OJAp....8E..86U",
+    "volume": "8",
+    "year": "2025"
+  },
+  {
     "arxiv": "2011.13745",
     "authors": [
       "Hayden, Michael R.",
@@ -313,7 +337,7 @@
       "Lilleengen, Sophia",
       "Lilleengen, Sophia"
     ],
-    "citations": 104,
+    "citations": 105,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac2e93",
     "page": 149,
@@ -564,7 +588,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 547,
+    "citations": 548,
     "doctype": "article",
     "doi": "10.1093/mnras/stab1242",
     "page": 150,
@@ -955,7 +979,7 @@
       "Zucker, D. B.",
       "Zwitter, T."
     ],
-    "citations": 101,
+    "citations": 102,
     "doctype": "article",
     "doi": "10.1093/mnras/stab471",
     "page": 3279,
@@ -1575,7 +1599,7 @@
       "Martell, Sarah L.",
       "Simpson, Jeffrey D."
     ],
-    "citations": 35,
+    "citations": 36,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3479",
     "page": 1370,
@@ -1611,7 +1635,7 @@
       "Wang, Mei-Yu",
       "S5 Collaboration"
     ],
-    "citations": 106,
+    "citations": 107,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3081",
     "page": 2465,
@@ -2843,7 +2867,7 @@
       "Wittenmyer, Rob A.",
       "Zucker, Daniel B."
     ],
-    "citations": 123,
+    "citations": 124,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2582",
     "page": 2004,
@@ -2978,7 +3002,7 @@
       "Watson, F. G.",
       "Wittenmyer, R."
     ],
-    "citations": 183,
+    "citations": 184,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2835",
     "page": 3203,
@@ -3341,7 +3365,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 737,
+    "citations": 738,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
