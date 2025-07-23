@@ -1,6 +1,6 @@
 [
   {
-    "arxiv": null,
+    "arxiv": "2506.15664",
     "authors": [
       "Usman, Sam A.",
       "Ji, Alexander P.",
@@ -337,7 +337,7 @@
       "Lilleengen, Sophia",
       "Lilleengen, Sophia"
     ],
-    "citations": 106,
+    "citations": 105,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac2e93",
     "page": 149,
@@ -413,7 +413,7 @@
       "Bland-Hawthorn, Joss",
       "S5 Collaboration"
     ],
-    "citations": 88,
+    "citations": 87,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac1869",
     "page": 32,
@@ -588,7 +588,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 550,
+    "citations": 549,
     "doctype": "article",
     "doi": "10.1093/mnras/stab1242",
     "page": 150,
@@ -1129,7 +1129,7 @@
       "Sharma, Sanjib",
       "S5 Collaboration"
     ],
-    "citations": 66,
+    "citations": 65,
     "doctype": "article",
     "doi": "10.3847/1538-4357/abeb18",
     "page": 149,
@@ -2827,7 +2827,7 @@
       "Traven, Gregor",
       "Wright, Duncan"
     ],
-    "citations": 45,
+    "citations": 44,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaa3e4",
     "page": 84,
