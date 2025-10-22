@@ -1459,7 +1459,7 @@
       "Zucker, Daniel B.",
       "Zwitter, Tomaz"
     ],
-    "citations": 10,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.1093/mnras/staa1528",
     "page": 851,
@@ -1468,6 +1468,68 @@
     "title": "K2-HERMES II. Planet-candidate properties from K2 Campaigns 1-13",
     "url": "https://ui.adsabs.harvard.edu/#abs/2020MNRAS.496..851W",
     "volume": "496",
+    "year": "2020"
+  },
+  {
+    "arxiv": "2005.10959",
+    "authors": [
+      "Wittenmyer, Robert A.",
+      "Clark, Jake T.",
+      "Sharma, Sanjib",
+      "Stello, Dennis",
+      "Horner, Jonathan",
+      "Kane, Stephen R.",
+      "Stevens, Catherine P.",
+      "Wright, Duncan J.",
+      "Spina, Lorenzo",
+      "{\\v{C}}otar, Klemen",
+      "Asplund, Martin",
+      "Bland-Hawthorn, Joss",
+      "Buder, Sven",
+      "Casey, Andrew R.",
+      "De Silva, Gayandhi M.",
+      "D'Orazi, Valentina",
+      "Freeman, Ken",
+      "Kos, Janez",
+      "Lewis, Geraint",
+      "Lin, Jane",
+      "Lind, Karin",
+      "Martell, Sarah L.",
+      "Simpson, Jeffrey D.",
+      "Zucker, Daniel B.",
+      "Zwitter, Tomaz"
+    ],
+    "citations": 11,
+    "doctype": "article",
+    "doi": "10.1093/mnras/staa1528",
+    "page": 851,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2020-07-00",
+    "title": "K2-HERMES II. Planet-candidate properties from K2 Campaigns 1-13",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2020MNRAS.496..851W",
+    "volume": "496",
+    "year": "2020"
+  },
+  {
+    "arxiv": "2004.07556",
+    "authors": [
+      "Kawka, Adela",
+      "Simpson, Jeffrey D.",
+      "Vennes, St{\\'e}phane",
+      "Bessell, Michael S.",
+      "Da Costa, Gary S.",
+      "Marino, Anna F.",
+      "Murphy, Simon J."
+    ],
+    "citations": 9,
+    "doctype": "article",
+    "doi": "10.1093/mnrasl/slaa068",
+    "page": null,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2020-06-00",
+    "title": "The closest extremely low-mass white dwarf to the Sun",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2020MNRAS.495L.129K",
+    "volume": "495",
     "year": "2020"
   },
   {
@@ -1971,6 +2033,23 @@
     "year": "2019"
   },
   {
+    "arxiv": "1909.06314",
+    "authors": [
+      "Simpson, Jeffrey D.",
+      "Martell, Sarah L."
+    ],
+    "citations": 14,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stz2611",
+    "page": 741,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2019-11-00",
+    "title": "A nitrogen-enhanced metal-poor star discovered in the globular cluster ESO280-SC06",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2019MNRAS.490..741S",
+    "volume": "490",
+    "year": "2019"
+  },
+  {
     "arxiv": "1811.11762",
     "authors": [
       "Kos, Janez",
@@ -2124,41 +2203,6 @@
     "year": "2019"
   },
   {
-    "arxiv": null,
-    "authors": [
-      "Cotar, K.",
-      "Zwitter, T.",
-      "Traven, G.",
-      "Kos, J.",
-      "Asplund, M.",
-      "Bland-Hawthorn, J.",
-      "Buder, S.",
-      "Dorazi, V.",
-      "de Silva, G. M.",
-      "Lin, J.",
-      "Martell, S. L.",
-      "Sharma, S.",
-      "Simpson, J. D.",
-      "Zucker, D. B.",
-      "Horner, J.",
-      "Lewis, G. F.",
-      "Nordlander, T.",
-      "Ting, Y. -S.",
-      "Wittenmyer, R. A.",
-      "GALAH Collaboration"
-    ],
-    "citations": 0,
-    "doctype": "dataset",
-    "doi": null,
-    "page": null,
-    "pub": "VizieR Online Data Catalog",
-    "pubdate": "2019-06-00",
-    "title": "VizieR Online Data Catalog: GALAH unresolved triple Sun-like star (Cotar+, 2019)",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2019yCat..74872474C",
-    "volume": "748",
-    "year": "2019"
-  },
-  {
     "arxiv": "1804.05869",
     "authors": [
       "Buder, S.",
@@ -2206,6 +2250,48 @@
     "title": "The GALAH survey: An abundance, age, and kinematic inventory of the solar neighbourhood made with TGAS",
     "url": "https://ui.adsabs.harvard.edu/#abs/2019A&A...624A..19B",
     "volume": "624",
+    "year": "2019"
+  },
+  {
+    "arxiv": "1804.05894",
+    "authors": [
+      "Simpson, Jeffrey D.",
+      "Martell, Sarah L.",
+      "Da Costa, Gary",
+      "Casey, Andrew R.",
+      "Freeman, Ken C.",
+      "Horner, Jonathan",
+      "Ting, Yuan-Sen",
+      "Nataf, David M.",
+      "Lewis, Geraint F.",
+      "Ness, Melissa K.",
+      "Zucker, Daniel B.",
+      "Cottrell, Peter L.",
+      "{\\v{C}}otar, Klemen",
+      "Asplund, Martin",
+      "Bland-Hawthorn, Joss",
+      "Buder, Sven",
+      "D'Orazi, Valentina",
+      "De Silva, Gayandhi M.",
+      "Duong, Ly",
+      "Kos, Janez",
+      "Lin, Jane",
+      "Lind, Karin",
+      "Schlesinger, Katharine J.",
+      "Sharma, Sanjib",
+      "Zwitter, Toma{\\v{z}}",
+      "Kafle, Prajwal R.",
+      "Nordlander, Thomas"
+    ],
+    "citations": 16,
+    "doctype": "article",
+    "doi": "10.1093/mnras/sty3042",
+    "page": 5302,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2019-02-00",
+    "title": "The GALAH survey: co-orbiting stars and chemical tagging",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2019MNRAS.482.5302S",
+    "volume": "482",
     "year": "2019"
   },
   {
@@ -2472,6 +2558,43 @@
     "title": "The GALAH survey: accurate radial velocities and library of observed stellar template spectra",
     "url": "https://ui.adsabs.harvard.edu/#abs/2018MNRAS.481..645Z",
     "volume": "481",
+    "year": "2018"
+  },
+  {
+    "arxiv": "1804.05851",
+    "authors": [
+      "Kos, Janez",
+      "Bland-Hawthorn, Joss",
+      "Betters, Christopher H.",
+      "Leon-Saval, Sergio",
+      "Asplund, Martin",
+      "Buder, Sven",
+      "Casey, Andrew R.",
+      "D'Orazi, Valentina",
+      "de Silva, Gayandhi",
+      "Freeman, Ken",
+      "Lewis, Geraint",
+      "Lin, Jane",
+      "Martell, Sarah L.",
+      "Schlesinger, Katharine",
+      "Sharma, Sanjib",
+      "Simpson, Jeffrey D.",
+      "Zucker, Daniel",
+      "Zwitter, Toma{\\v{z}}",
+      "Hayden, Michael",
+      "Horner, Jonathan",
+      "Nataf, David M.",
+      "Ting, Yuan-Sen"
+    ],
+    "citations": 13,
+    "doctype": "article",
+    "doi": "10.1093/mnras/sty2175",
+    "page": 5475,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2018-11-00",
+    "title": "Holistic spectroscopy: complete reconstruction of a wide-field, multiobject spectroscopic image using a photonic comb",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2018MNRAS.480.5475K",
+    "volume": "480",
     "year": "2018"
   },
   {
@@ -2899,6 +3022,50 @@
     "year": "2017"
   },
   {
+    "arxiv": "1708.06875",
+    "authors": [
+      "Simpson, Jeffrey D.",
+      "De Silva, Gayandhi",
+      "Martell, Sarah L.",
+      "Navin, Colin A.",
+      "Zucker, Daniel B."
+    ],
+    "citations": 26,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stx2174",
+    "page": 2856,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2017-12-00",
+    "title": "ESO 452-SC11: the lowest mass globular cluster with a potential chemical inhomogeneity",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2017MNRAS.472.2856S",
+    "volume": "472",
+    "year": "2017"
+  },
+  {
+    "arxiv": "1703.03823",
+    "authors": [
+      "Simpson, J. D.",
+      "De Silva, G. M.",
+      "Martell, S. L.",
+      "Zucker, D. B.",
+      "Ferguson, A. M. N.",
+      "Bernard, E. J.",
+      "Irwin, M.",
+      "Penarrubia, J.",
+      "Tolstoy, E."
+    ],
+    "citations": 14,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stx1892",
+    "page": 4087,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2017-11-00",
+    "title": "Siriusly, a newly identified intermediate-age Milky Way stellar cluster: a spectroscopic study of Gaia 1",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2017MNRAS.471.4087S",
+    "volume": "471",
+    "year": "2017"
+  },
+  {
     "arxiv": "1703.03823",
     "authors": [
       "Simpson, J. D.",
@@ -3002,7 +3169,7 @@
       "Watson, F. G.",
       "Wittenmyer, R."
     ],
-    "citations": 187,
+    "citations": 186,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2835",
     "page": 3203,
@@ -3071,22 +3238,6 @@
     "title": "A broad perspective on multiple abundance populations in the globular cluster NGC 1851",
     "url": "https://ui.adsabs.harvard.edu/#abs/2017MNRAS.465.1123S",
     "volume": "465",
-    "year": "2017"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Simpson, Jeffrey"
-    ],
-    "citations": 0,
-    "doctype": "proposal",
-    "doi": null,
-    "page": 159,
-    "pub": "Keck Observatory Archive Z227",
-    "pubdate": "2017-02-00",
-    "title": "ESO452: Exploring self-enrichment in low mass stellar clusters",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2017koa..prop..159S",
-    "volume": null,
     "year": "2017"
   },
   {
@@ -3474,22 +3625,6 @@
     "title": "Spectral matching for abundances of 848 stars of the giant branches of the globular cluster {\\ensuremath{\\omega}} Centauri",
     "url": "https://ui.adsabs.harvard.edu/#abs/2013MNRAS.433.1892S",
     "volume": "433",
-    "year": "2013"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Simpson, Jeffrey D."
-    ],
-    "citations": 0,
-    "doctype": "phdthesis",
-    "doi": null,
-    "page": null,
-    "pub": "Ph.D. Thesis",
-    "pubdate": "2013-00-00",
-    "title": "Spectral matching for elemental abundances of evolved stars of globular clusters",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2013PhDT.......706S",
-    "volume": null,
     "year": "2013"
   },
   {
