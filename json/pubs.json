@@ -1215,6 +1215,40 @@
     "year": "2020"
   },
   {
+    "arxiv": "2008.07568",
+    "authors": [
+      "Ji, Alexander P.",
+      "Li, Ting S.",
+      "Hansen, Terese T.",
+      "Casey, Andrew R.",
+      "Koposov, Sergey E.",
+      "Pace, Andrew B.",
+      "Mackey, Dougal",
+      "Lewis, Geraint F.",
+      "Simpson, Jeffrey D.",
+      "Bland-Hawthorn, Joss",
+      "Cullinane, Lara R.",
+      "Da Costa, Gary. S.",
+      "Hattori, Kohei",
+      "Martell, Sarah L.",
+      "Kuehn, Kyler",
+      "Erkal, Denis",
+      "Shipp, Nora",
+      "Wan, Zhen",
+      "Zucker, Daniel B."
+    ],
+    "citations": 91,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/abacb6",
+    "page": 181,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2020-10-00",
+    "title": "The Southern Stellar Stream Spectroscopic Survey (S<SUP>5</SUP>): Chemical Abundances of Seven Stellar Streams",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2020AJ....160..181J",
+    "volume": "160",
+    "year": "2020"
+  },
+  {
     "arxiv": "2008.09582",
     "authors": [
       "Amarsi, A. M.",
@@ -1253,40 +1287,6 @@
     "title": "The GALAH Survey: non-LTE departure coefficients for large spectroscopic surveys",
     "url": "https://ui.adsabs.harvard.edu/#abs/2020A&A...642A..62A",
     "volume": "642",
-    "year": "2020"
-  },
-  {
-    "arxiv": "2008.07568",
-    "authors": [
-      "Ji, Alexander P.",
-      "Li, Ting S.",
-      "Hansen, Terese T.",
-      "Casey, Andrew R.",
-      "Koposov, Sergey E.",
-      "Pace, Andrew B.",
-      "Mackey, Dougal",
-      "Lewis, Geraint F.",
-      "Simpson, Jeffrey D.",
-      "Bland-Hawthorn, Joss",
-      "Cullinane, Lara R.",
-      "Da Costa, Gary. S.",
-      "Hattori, Kohei",
-      "Martell, Sarah L.",
-      "Kuehn, Kyler",
-      "Erkal, Denis",
-      "Shipp, Nora",
-      "Wan, Zhen",
-      "Zucker, Daniel B."
-    ],
-    "citations": 91,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/abacb6",
-    "page": 181,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2020-10-00",
-    "title": "The Southern Stellar Stream Spectroscopic Survey (S<SUP>5</SUP>): Chemical Abundances of Seven Stellar Streams",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2020AJ....160..181J",
-    "volume": "160",
     "year": "2020"
   },
   {
@@ -1523,7 +1523,7 @@
       "Munari, U.",
       "Wittenmyer, R. A."
     ],
-    "citations": 64,
+    "citations": 65,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202037484",
     "page": null,
@@ -1635,7 +1635,7 @@
       "Wang, Mei-Yu",
       "S5 Collaboration"
     ],
-    "citations": 111,
+    "citations": 112,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3081",
     "page": 2465,
@@ -3002,7 +3002,7 @@
       "Watson, F. G.",
       "Wittenmyer, R."
     ],
-    "citations": 190,
+    "citations": 191,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2835",
     "page": 3203,
@@ -3365,7 +3365,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 786,
+    "citations": 787,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
