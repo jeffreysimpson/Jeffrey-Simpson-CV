@@ -1,5 +1,43 @@
 [
   {
+    "arxiv": "2512.10003",
+    "authors": [
+      "Webber, K. B.",
+      "Hansen, T. T.",
+      "Marshall, J. L.",
+      "Ji, Alexander P.",
+      "Li, Ting S.",
+      "Da Costa, Gary S.",
+      "Cullinane, Lara R.",
+      "Erkal, Denis",
+      "Koposov, Sergey E.",
+      "Kuehn, Kyler",
+      "Lewis, Geraint F.",
+      "Mackey, Dougal",
+      "Martell, Sarah L.",
+      "Pace, Andrew B.",
+      "Shipp, Nora",
+      "Simpson, Jeffrey D.",
+      "Wan, Zhen",
+      "Zucker, Daniel B.",
+      "Alvarado, Victor A.",
+      "Bland-Hawthorn, Joss",
+      "Limberg, Guilherme",
+      "Medina, Gustavo E.",
+      "Usman, Sam A."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ae2d59",
+    "page": 114,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2026-02-00",
+    "title": "Detailed Chemical Abundance Analysis of the Brightest Stars in the Turranburra and Willka Yaku Stellar Streams",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2026ApJ...998..114W",
+    "volume": "998",
+    "year": "2026"
+  },
+  {
     "arxiv": "2506.15664",
     "authors": [
       "Usman, Sam A.",
@@ -173,7 +211,7 @@
       "De Silva, Gayandhi M.",
       "Simon, Joshua D."
     ],
-    "citations": 109,
+    "citations": 110,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac46d3",
     "page": 30,
@@ -337,7 +375,7 @@
       "Lilleengen, Sophia",
       "Lilleengen, Sophia"
     ],
-    "citations": 130,
+    "citations": 131,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac2e93",
     "page": 149,
@@ -413,7 +451,7 @@
       "Bland-Hawthorn, Joss",
       "S5 Collaboration"
     ],
-    "citations": 99,
+    "citations": 100,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac1869",
     "page": 32,
@@ -588,7 +626,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 608,
+    "citations": 609,
     "doctype": "article",
     "doi": "10.1093/mnras/stab1242",
     "page": 150,
@@ -1796,7 +1834,7 @@
       "Yanny, B.",
       "S5 Collaboration"
     ],
-    "citations": 125,
+    "citations": 126,
     "doctype": "article",
     "doi": "10.1093/mnras/stz2731",
     "page": 3508,
@@ -3002,7 +3040,7 @@
       "Watson, F. G.",
       "Wittenmyer, R."
     ],
-    "citations": 191,
+    "citations": 190,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2835",
     "page": 3203,
