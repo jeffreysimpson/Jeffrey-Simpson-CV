@@ -50,7 +50,7 @@
       "Shah, Shivani",
       "McKenzie, Madeleine"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.33232/001c.141756",
     "page": 86,
@@ -211,7 +211,7 @@
       "De Silva, Gayandhi M.",
       "Simon, Joshua D."
     ],
-    "citations": 109,
+    "citations": 110,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac46d3",
     "page": 30,
@@ -451,7 +451,7 @@
       "Bland-Hawthorn, Joss",
       "S5 Collaboration"
     ],
-    "citations": 99,
+    "citations": 101,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac1869",
     "page": 32,
@@ -482,7 +482,7 @@
       "Simpson, Jeffrey D.",
       "Zucker, Daniel B."
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac1346",
     "page": 67,
@@ -523,7 +523,7 @@
       "Zucker, Daniel B.",
       "Zwitter, Toma{\\v{z}}"
     ],
-    "citations": 96,
+    "citations": 97,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2304",
     "page": 2684,
@@ -564,7 +564,7 @@
       "Wyse, Rosemary F. G.",
       "Galah Collaboration"
     ],
-    "citations": 19,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2012",
     "page": 43,
@@ -626,7 +626,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 613,
+    "citations": 614,
     "doctype": "article",
     "doi": "10.1093/mnras/stab1242",
     "page": 150,
@@ -715,7 +715,7 @@
       "Ting, Yuan-Sen",
       "Traven, Gregor"
     ],
-    "citations": 22,
+    "citations": 23,
     "doctype": "article",
     "doi": "10.1093/mnras/stab1767",
     "page": 4232,
@@ -1282,7 +1282,7 @@
       "Horner, J.",
       "GALAH Collaboration"
     ],
-    "citations": 111,
+    "citations": 112,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202038650",
     "page": null,
@@ -1356,7 +1356,7 @@
       "Wittenmyer, Robert A.",
       "GALAH Collaboration"
     ],
-    "citations": 36,
+    "citations": 37,
     "doctype": "article",
     "doi": "10.1093/mnrasl/slaa109",
     "page": null,
@@ -1429,7 +1429,7 @@
       "Sharma, Sanjib",
       "De Silva, Gayandhi M."
     ],
-    "citations": 63,
+    "citations": 64,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2483-6",
     "page": 768,
@@ -2501,7 +2501,7 @@
       "Wittenmyer, Rob A.",
       "{\\v{Z}}erjal, Maru{\\v{s}}a"
     ],
-    "citations": 34,
+    "citations": 35,
     "doctype": "article",
     "doi": "10.1093/mnras/sty2293",
     "page": 645,
@@ -2613,7 +2613,7 @@
     "authors": [
       "Simpson, Jeffrey D."
     ],
-    "citations": 24,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.1093/mnras/sty847",
     "page": 4565,
@@ -3403,7 +3403,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 792,
+    "citations": 793,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
