@@ -1555,6 +1555,28 @@
     "year": "2020"
   },
   {
+    "arxiv": "2004.07556",
+    "authors": [
+      "Kawka, Adela",
+      "Simpson, Jeffrey D.",
+      "Vennes, St{\\'e}phane",
+      "Bessell, Michael S.",
+      "Da Costa, Gary S.",
+      "Marino, Anna F.",
+      "Murphy, Simon J."
+    ],
+    "citations": 9,
+    "doctype": "article",
+    "doi": "10.1093/mnrasl/slaa068",
+    "page": null,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2020-06-00",
+    "title": "The closest extremely low-mass white dwarf to the Sun",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2020MNRAS.495L.129K",
+    "volume": "495",
+    "year": "2020"
+  },
+  {
     "arxiv": "2005.00014",
     "authors": [
       "Traven, G.",
@@ -2621,7 +2643,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 346,
+    "citations": 345,
     "doctype": "article",
     "doi": "10.1093/mnras/sty1281",
     "page": 4513,
