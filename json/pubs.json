@@ -650,7 +650,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 621,
+    "citations": 622,
     "doctype": "article",
     "doi": "10.1093/mnras/stab1242",
     "page": 150,
@@ -1555,28 +1555,6 @@
     "year": "2020"
   },
   {
-    "arxiv": "2004.07556",
-    "authors": [
-      "Kawka, Adela",
-      "Simpson, Jeffrey D.",
-      "Vennes, St{\\'e}phane",
-      "Bessell, Michael S.",
-      "Da Costa, Gary S.",
-      "Marino, Anna F.",
-      "Murphy, Simon J."
-    ],
-    "citations": 9,
-    "doctype": "article",
-    "doi": "10.1093/mnrasl/slaa068",
-    "page": null,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2020-06-00",
-    "title": "The closest extremely low-mass white dwarf to the Sun",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2020MNRAS.495L.129K",
-    "volume": "495",
-    "year": "2020"
-  },
-  {
     "arxiv": "2005.00014",
     "authors": [
       "Traven, G.",
@@ -1719,7 +1697,7 @@
       "Wang, Mei-Yu",
       "S5 Collaboration"
     ],
-    "citations": 114,
+    "citations": 115,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3081",
     "page": 2465,
@@ -2281,7 +2259,7 @@
       "Wyse, R. F. G.",
       "GALAH Collaboration"
     ],
-    "citations": 123,
+    "citations": 124,
     "doctype": "article",
     "doi": "10.1051/0004-6361/201833218",
     "page": null,
@@ -2643,7 +2621,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 345,
+    "citations": 346,
     "doctype": "article",
     "doi": "10.1093/mnras/sty1281",
     "page": 4513,
@@ -2951,7 +2929,7 @@
       "Wittenmyer, Rob A.",
       "Zucker, Daniel B."
     ],
-    "citations": 133,
+    "citations": 134,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2582",
     "page": 2004,
