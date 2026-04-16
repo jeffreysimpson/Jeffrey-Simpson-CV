@@ -547,7 +547,7 @@
       "Zucker, Daniel B.",
       "Zwitter, Toma{\\v{z}}"
     ],
-    "citations": 98,
+    "citations": 99,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2304",
     "page": 2684,
@@ -1306,7 +1306,7 @@
       "Horner, J.",
       "GALAH Collaboration"
     ],
-    "citations": 114,
+    "citations": 115,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202038650",
     "page": null,
@@ -1340,7 +1340,7 @@
       "Wan, Zhen",
       "Zucker, Daniel B."
     ],
-    "citations": 96,
+    "citations": 97,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abacb6",
     "page": 181,
@@ -1555,28 +1555,6 @@
     "year": "2020"
   },
   {
-    "arxiv": "2004.07556",
-    "authors": [
-      "Kawka, Adela",
-      "Simpson, Jeffrey D.",
-      "Vennes, St{\\'e}phane",
-      "Bessell, Michael S.",
-      "Da Costa, Gary S.",
-      "Marino, Anna F.",
-      "Murphy, Simon J."
-    ],
-    "citations": 9,
-    "doctype": "article",
-    "doi": "10.1093/mnrasl/slaa068",
-    "page": null,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2020-06-00",
-    "title": "The closest extremely low-mass white dwarf to the Sun",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2020MNRAS.495L.129K",
-    "volume": "495",
-    "year": "2020"
-  },
-  {
     "arxiv": "2005.00014",
     "authors": [
       "Traven, G.",
@@ -1719,7 +1697,7 @@
       "Wang, Mei-Yu",
       "S5 Collaboration"
     ],
-    "citations": 115,
+    "citations": 116,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3081",
     "page": 2465,
@@ -2196,7 +2174,7 @@
       "Ting, Yuan-Sen",
       "Wyse, Rosemary F. G."
     ],
-    "citations": 217,
+    "citations": 218,
     "doctype": "article",
     "doi": "10.1093/mnras/stz217",
     "page": 1167,
@@ -3007,30 +2985,6 @@
     "year": "2017"
   },
   {
-    "arxiv": "1703.03823",
-    "authors": [
-      "Simpson, J. D.",
-      "De Silva, G. M.",
-      "Martell, S. L.",
-      "Zucker, D. B.",
-      "Ferguson, A. M. N.",
-      "Bernard, E. J.",
-      "Irwin, M.",
-      "Penarrubia, J.",
-      "Tolstoy, E."
-    ],
-    "citations": 14,
-    "doctype": "article",
-    "doi": "10.1093/mnras/stx1892",
-    "page": 4087,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2017-11-00",
-    "title": "Siriusly, a newly identified intermediate-age Milky Way stellar cluster: a spectroscopic study of Gaia 1",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2017MNRAS.471.4087S",
-    "volume": "471",
-    "year": "2017"
-  },
-  {
     "arxiv": null,
     "authors": [
       "Traven, G.",
@@ -3110,7 +3064,7 @@
       "Watson, F. G.",
       "Wittenmyer, R."
     ],
-    "citations": 193,
+    "citations": 194,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2835",
     "page": 3203,
