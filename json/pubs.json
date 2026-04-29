@@ -1340,7 +1340,7 @@
       "Wan, Zhen",
       "Zucker, Daniel B."
     ],
-    "citations": 99,
+    "citations": 100,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abacb6",
     "page": 181,
@@ -1858,7 +1858,7 @@
       "Yanny, B.",
       "S5 Collaboration"
     ],
-    "citations": 137,
+    "citations": 138,
     "doctype": "article",
     "doi": "10.1093/mnras/stz2731",
     "page": 3508,
@@ -2106,41 +2106,6 @@
     "title": "The retrograde orbit of the globular cluster FSR1758 revealed with Gaia DR2",
     "url": "https://ui.adsabs.harvard.edu/#abs/2019MNRAS.488..253S",
     "volume": "488",
-    "year": "2019"
-  },
-  {
-    "arxiv": "1904.04841",
-    "authors": [
-      "{\\v{C}}otar, Klemen",
-      "Zwitter, Toma{\\v{z}}",
-      "Traven, Gregor",
-      "Kos, Janez",
-      "Asplund, Martin",
-      "Bland-Hawthorn, Joss",
-      "Buder, Sven",
-      "D'Orazi, Valentina",
-      "de Silva, Gayandhi M.",
-      "Lin, Jane",
-      "Martell, Sarah L.",
-      "Sharma, Sanjib",
-      "Simpson, Jeffrey D.",
-      "Zucker, Daniel B.",
-      "Horner, Jonathan",
-      "Lewis, Geraint F.",
-      "Nordlander, Thomas",
-      "Ting, Yuan-Sen",
-      "Wittenmyer, Rob A.",
-      "Galah Collaboration"
-    ],
-    "citations": 4,
-    "doctype": "article",
-    "doi": "10.1093/mnras/stz1397",
-    "page": 2474,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2019-08-00",
-    "title": "The GALAH survey: unresolved triple Sun-like stars discovered by the Gaia mission",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2019MNRAS.487.2474C",
-    "volume": "487",
     "year": "2019"
   },
   {
@@ -3152,6 +3117,22 @@
     "year": "2017"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Simpson, Jeffrey"
+    ],
+    "citations": 0,
+    "doctype": "proposal",
+    "doi": null,
+    "page": 159,
+    "pub": "Keck Observatory Archive Z227",
+    "pubdate": "2017-02-00",
+    "title": "ESO452: Exploring self-enrichment in low mass stellar clusters",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2017koa..prop..159S",
+    "volume": null,
+    "year": "2017"
+  },
+  {
     "arxiv": "1608.04391",
     "authors": [
       "Kos, Janez",
@@ -3427,7 +3408,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 816,
+    "citations": 817,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
