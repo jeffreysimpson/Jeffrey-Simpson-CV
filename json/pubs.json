@@ -475,7 +475,7 @@
       "Bland-Hawthorn, Joss",
       "S5 Collaboration"
     ],
-    "citations": 109,
+    "citations": 110,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac1869",
     "page": 32,
@@ -547,7 +547,7 @@
       "Zucker, Daniel B.",
       "Zwitter, Toma{\\v{z}}"
     ],
-    "citations": 99,
+    "citations": 100,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2304",
     "page": 2684,
@@ -1555,6 +1555,28 @@
     "year": "2020"
   },
   {
+    "arxiv": "2004.07556",
+    "authors": [
+      "Kawka, Adela",
+      "Simpson, Jeffrey D.",
+      "Vennes, St{\\'e}phane",
+      "Bessell, Michael S.",
+      "Da Costa, Gary S.",
+      "Marino, Anna F.",
+      "Murphy, Simon J."
+    ],
+    "citations": 9,
+    "doctype": "article",
+    "doi": "10.1093/mnrasl/slaa068",
+    "page": null,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2020-06-00",
+    "title": "The closest extremely low-mass white dwarf to the Sun",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2020MNRAS.495L.129K",
+    "volume": "495",
+    "year": "2020"
+  },
+  {
     "arxiv": "2005.00014",
     "authors": [
       "Traven, G.",
@@ -1910,7 +1932,7 @@
       "Wright, Duncan",
       "Wyse, Rosemary F. G."
     ],
-    "citations": 76,
+    "citations": 77,
     "doctype": "article",
     "doi": "10.1093/mnras/stz2861",
     "page": 5335,
@@ -2958,6 +2980,30 @@
     "title": "ESO 452-SC11: the lowest mass globular cluster with a potential chemical inhomogeneity",
     "url": "https://ui.adsabs.harvard.edu/#abs/2017MNRAS.472.2856S",
     "volume": "472",
+    "year": "2017"
+  },
+  {
+    "arxiv": "1703.03823",
+    "authors": [
+      "Simpson, J. D.",
+      "De Silva, G. M.",
+      "Martell, S. L.",
+      "Zucker, D. B.",
+      "Ferguson, A. M. N.",
+      "Bernard, E. J.",
+      "Irwin, M.",
+      "Penarrubia, J.",
+      "Tolstoy, E."
+    ],
+    "citations": 14,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stx1892",
+    "page": 4087,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2017-11-00",
+    "title": "Siriusly, a newly identified intermediate-age Milky Way stellar cluster: a spectroscopic study of Gaia 1",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2017MNRAS.471.4087S",
+    "volume": "471",
     "year": "2017"
   },
   {
