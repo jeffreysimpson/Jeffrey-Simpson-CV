@@ -812,38 +812,6 @@
     "year": "2021"
   },
   {
-    "arxiv": "2104.02686",
-    "authors": [
-      "Munari, U.",
-      "Traven, G.",
-      "Masetti, N.",
-      "Valisa, P.",
-      "Righetti, G.-L.",
-      "Hambsch, F.-J.",
-      "Frigo, A.",
-      "{\\v{C}}otar, K.",
-      "De Silva, G. M.",
-      "Freeman, K. C.",
-      "Lewis, G. F.",
-      "Martell, S. L.",
-      "Sharma, S.",
-      "Simpson, J. D.",
-      "Ting, Y.-S.",
-      "Wittenmyer, R. A.",
-      "Zucker, D. B."
-    ],
-    "citations": 31,
-    "doctype": "article",
-    "doi": "10.1093/mnras/stab1620",
-    "page": 6121,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2021-08-00",
-    "title": "The GALAH survey and symbiotic stars - I. Discovery and follow-up of 33 candidate accreting-only systems",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2021MNRAS.505.6121M",
-    "volume": "505",
-    "year": "2021"
-  },
-  {
     "arxiv": "2006.02106",
     "authors": [
       "Martell, Sarah L.",
@@ -878,6 +846,38 @@
     "pubdate": "2021-08-00",
     "title": "The GALAH survey: a census of lithium-rich giant stars",
     "url": "https://ui.adsabs.harvard.edu/#abs/2021MNRAS.505.5340M",
+    "volume": "505",
+    "year": "2021"
+  },
+  {
+    "arxiv": "2104.02686",
+    "authors": [
+      "Munari, U.",
+      "Traven, G.",
+      "Masetti, N.",
+      "Valisa, P.",
+      "Righetti, G.-L.",
+      "Hambsch, F.-J.",
+      "Frigo, A.",
+      "{\\v{C}}otar, K.",
+      "De Silva, G. M.",
+      "Freeman, K. C.",
+      "Lewis, G. F.",
+      "Martell, S. L.",
+      "Sharma, S.",
+      "Simpson, J. D.",
+      "Ting, Y.-S.",
+      "Wittenmyer, R. A.",
+      "Zucker, D. B."
+    ],
+    "citations": 31,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stab1620",
+    "page": 6121,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2021-08-00",
+    "title": "The GALAH survey and symbiotic stars - I. Discovery and follow-up of 33 candidate accreting-only systems",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2021MNRAS.505.6121M",
     "volume": "505",
     "year": "2021"
   },
@@ -1530,6 +1530,28 @@
     "title": "K2-HERMES II. Planet-candidate properties from K2 Campaigns 1-13",
     "url": "https://ui.adsabs.harvard.edu/#abs/2020MNRAS.496..851W",
     "volume": "496",
+    "year": "2020"
+  },
+  {
+    "arxiv": "2004.07556",
+    "authors": [
+      "Kawka, Adela",
+      "Simpson, Jeffrey D.",
+      "Vennes, St{\\'e}phane",
+      "Bessell, Michael S.",
+      "Da Costa, Gary S.",
+      "Marino, Anna F.",
+      "Murphy, Simon J."
+    ],
+    "citations": 9,
+    "doctype": "article",
+    "doi": "10.1093/mnrasl/slaa068",
+    "page": null,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2020-06-00",
+    "title": "The closest extremely low-mass white dwarf to the Sun",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2020MNRAS.495L.129K",
+    "volume": "495",
     "year": "2020"
   },
   {
