@@ -399,7 +399,7 @@
       "Lilleengen, Sophia",
       "Lilleengen, Sophia"
     ],
-    "citations": 135,
+    "citations": 136,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac2e93",
     "page": 149,
@@ -475,7 +475,7 @@
       "Bland-Hawthorn, Joss",
       "S5 Collaboration"
     ],
-    "citations": 109,
+    "citations": 110,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac1869",
     "page": 32,
@@ -547,7 +547,7 @@
       "Zucker, Daniel B.",
       "Zwitter, Toma{\\v{z}}"
     ],
-    "citations": 99,
+    "citations": 100,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2304",
     "page": 2684,
@@ -1277,40 +1277,6 @@
     "year": "2020"
   },
   {
-    "arxiv": "2008.07568",
-    "authors": [
-      "Ji, Alexander P.",
-      "Li, Ting S.",
-      "Hansen, Terese T.",
-      "Casey, Andrew R.",
-      "Koposov, Sergey E.",
-      "Pace, Andrew B.",
-      "Mackey, Dougal",
-      "Lewis, Geraint F.",
-      "Simpson, Jeffrey D.",
-      "Bland-Hawthorn, Joss",
-      "Cullinane, Lara R.",
-      "Da Costa, Gary. S.",
-      "Hattori, Kohei",
-      "Martell, Sarah L.",
-      "Kuehn, Kyler",
-      "Erkal, Denis",
-      "Shipp, Nora",
-      "Wan, Zhen",
-      "Zucker, Daniel B."
-    ],
-    "citations": 100,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/abacb6",
-    "page": 181,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2020-10-00",
-    "title": "The Southern Stellar Stream Spectroscopic Survey (S<SUP>5</SUP>): Chemical Abundances of Seven Stellar Streams",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2020AJ....160..181J",
-    "volume": "160",
-    "year": "2020"
-  },
-  {
     "arxiv": "2008.09582",
     "authors": [
       "Amarsi, A. M.",
@@ -1349,6 +1315,40 @@
     "title": "The GALAH Survey: non-LTE departure coefficients for large spectroscopic surveys",
     "url": "https://ui.adsabs.harvard.edu/#abs/2020A&A...642A..62A",
     "volume": "642",
+    "year": "2020"
+  },
+  {
+    "arxiv": "2008.07568",
+    "authors": [
+      "Ji, Alexander P.",
+      "Li, Ting S.",
+      "Hansen, Terese T.",
+      "Casey, Andrew R.",
+      "Koposov, Sergey E.",
+      "Pace, Andrew B.",
+      "Mackey, Dougal",
+      "Lewis, Geraint F.",
+      "Simpson, Jeffrey D.",
+      "Bland-Hawthorn, Joss",
+      "Cullinane, Lara R.",
+      "Da Costa, Gary. S.",
+      "Hattori, Kohei",
+      "Martell, Sarah L.",
+      "Kuehn, Kyler",
+      "Erkal, Denis",
+      "Shipp, Nora",
+      "Wan, Zhen",
+      "Zucker, Daniel B."
+    ],
+    "citations": 100,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/abacb6",
+    "page": 181,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2020-10-00",
+    "title": "The Southern Stellar Stream Spectroscopic Survey (S<SUP>5</SUP>): Chemical Abundances of Seven Stellar Streams",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2020AJ....160..181J",
+    "volume": "160",
     "year": "2020"
   },
   {
@@ -1530,28 +1530,6 @@
     "title": "K2-HERMES II. Planet-candidate properties from K2 Campaigns 1-13",
     "url": "https://ui.adsabs.harvard.edu/#abs/2020MNRAS.496..851W",
     "volume": "496",
-    "year": "2020"
-  },
-  {
-    "arxiv": "2004.07556",
-    "authors": [
-      "Kawka, Adela",
-      "Simpson, Jeffrey D.",
-      "Vennes, St{\\'e}phane",
-      "Bessell, Michael S.",
-      "Da Costa, Gary S.",
-      "Marino, Anna F.",
-      "Murphy, Simon J."
-    ],
-    "citations": 9,
-    "doctype": "article",
-    "doi": "10.1093/mnrasl/slaa068",
-    "page": null,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2020-06-00",
-    "title": "The closest extremely low-mass white dwarf to the Sun",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2020MNRAS.495L.129K",
-    "volume": "495",
     "year": "2020"
   },
   {
@@ -2196,7 +2174,7 @@
       "Ting, Yuan-Sen",
       "Wyse, Rosemary F. G."
     ],
-    "citations": 218,
+    "citations": 219,
     "doctype": "article",
     "doi": "10.1093/mnras/stz217",
     "page": 1167,
@@ -3086,7 +3064,7 @@
       "Watson, F. G.",
       "Wittenmyer, R."
     ],
-    "citations": 196,
+    "citations": 197,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2835",
     "page": 3203,
